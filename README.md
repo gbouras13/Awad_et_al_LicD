@@ -45,7 +45,7 @@ hybracter hybrid --datadir "../sra_fastqs" -i hybracter_hybrid_sheet.csv  -o hyb
 #### For DFI-250 and DFI-266
 
 ```bash
-hybracter long --datadir "sra_fastqs" -i hybracter_long_sheet.csv -t 32 -o hyracter_out_dfi  --no_medaka  --min_quality  15
+hybracter long --datadir "../sra_fastqs" -i hybracter_long_sheet.csv -t 32 -o hyracter_out_dfi  --no_medaka  --min_quality  15
 ```
 
 ## Annotation
