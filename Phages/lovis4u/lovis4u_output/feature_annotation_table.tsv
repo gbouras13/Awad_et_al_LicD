@@ -1,0 +1,719 @@
+feature_id	locus_id	coordinates	feature_type	name	group	group_type	category	fill_colour	stroke_colour	show_label
+Ef-P10-208_CDS_0001	Ef-P10-208	34:1506:1	CDS	terminase large subunit	Ef-P16-208_CDS_0001		head and packaging	default	default	0
+Ef-P10-208_CDS_0002	Ef-P10-208	1606:2394:1	CDS	virion structural protein	Ef-P10-208_CDS_0002		head and packaging	default	default	0
+Ef-P10-208_CDS_0003	Ef-P10-208	2499:3215:1	CDS	hypothetical protein	Ef-P10-208_CDS_0003		unknown function	default	default	0
+Ef-P10-208_CDS_0004	Ef-P10-208	3205:3549:1	CDS	hypothetical protein	Ef-P16-208_CDS_0004		unknown function	default	default	0
+Ef-P10-208_CDS_0005	Ef-P10-208	3643:4512:1	CDS	endolysin	Ef-P16-208_CDS_0005		lysis	default	default	0
+Ef-P10-208_CDS_0006	Ef-P10-208	4679:5317:1	CDS	transglycosylase	Ef-P10-208_CDS_0006		other	default	default	0
+Ef-P10-208_CDS_0007	Ef-P10-208	5459:5803:1	CDS	portal protein	Ef-P10-208_CDS_0007		head and packaging	default	default	0
+Ef-P10-208_CDS_0008	Ef-P10-208	5889:5984:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0008		unknown function	default	default	0
+Ef-P10-208_CDS_0009	Ef-P10-208	6013:7542:1	CDS	portal protein	Ef-P16-208_CDS_0009		head and packaging	default	default	0
+Ef-P10-208_CDS_0010	Ef-P10-208	7549:7662:1	CDS	hypothetical protein	Ef-P10-208_CDS_0010		unknown function	default	default	0
+Ef-P10-208_CDS_0011	Ef-P10-208	7634:8440:1	CDS	head maturation protease	Ef-P16-208_CDS_0011		head and packaging	default	default	0
+Ef-P10-208_CDS_0012	Ef-P10-208	8447:9373:1	CDS	hypothetical protein	Ef-P16-208_CDS_0012		unknown function	default	default	0
+Ef-P10-208_CDS_0013	Ef-P10-208	9514:10908:1	CDS	major head protein	Ef-P10-208_CDS_0013		head and packaging	default	default	0
+Ef-P10-208_CDS_0014	Ef-P10-208	11013:11276:1	CDS	hypothetical protein	Ef-P10-208_CDS_0014		unknown function	default	default	0
+Ef-P10-208_CDS_0015	Ef-P10-208	11289:12188:1	CDS	tail fiber protein	Ef-P10-208_CDS_0015		tail	default	default	0
+Ef-P10-208_CDS_0016	Ef-P10-208	12208:13077:1	CDS	virion structural protein	Ef-P16-208_CDS_0016		head and packaging	default	default	0
+Ef-P10-208_CDS_0017	Ef-P10-208	13070:13693:1	CDS	hypothetical protein	Ef-P10-208_CDS_0017		unknown function	default	default	0
+Ef-P10-208_CDS_0018	Ef-P10-208	13697:14542:1	CDS	virion structural protein	Ef-P16-208_CDS_0018		head and packaging	default	default	0
+Ef-P10-208_CDS_0019	Ef-P10-208	14542:14775:1	CDS	hypothetical protein	Ef-P16-208_CDS_0019		unknown function	default	default	0
+Ef-P10-208_CDS_0020	Ef-P10-208	14779:16488:1	CDS	tail sheath	Ef-P20-208_CDS_0019		tail	default	default	0
+Ef-P10-208_CDS_0021	Ef-P10-208	16549:16971:1	CDS	virion structural protein	Ef-P10-208_CDS_0021		head and packaging	default	default	0
+Ef-P10-208_CDS_0022	Ef-P10-208	17095:17931:1	CDS	HNH endonuclease	Ef-P20-208_CDS_0021		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0023	Ef-P10-208	17945:18091:1	CDS	hypothetical protein	Ef-P16-208_CDS_0024		unknown function	default	default	0
+Ef-P10-208_CDS_0024	Ef-P10-208	18227:18700:1	CDS	tail assembly chaperone	Ef-P16-208_CDS_0025		tail	default	default	0
+Ef-P10-208_CDS_0025	Ef-P10-208	18768:19343:1	CDS	RNA polymerase beta subunit	Ef-P16-208_CDS_0026		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0026	Ef-P10-208	19388:23044:1	CDS	tail associated lysin	Ef-P20-208_CDS_0025		tail	default	default	0
+Ef-P10-208_CDS_0027	Ef-P10-208	23083:26268:1	CDS	tail protein with lysin activity	Ef-P16-208_CDS_0028		tail	default	default	0
+Ef-P10-208_CDS_0028	Ef-P10-208	26353:31830:1	CDS	tail fiber protein	Ef-P16-208_CDS_0029		tail	default	default	0
+Ef-P10-208_CDS_0029	Ef-P10-208	31930:34380:1	CDS	tail protein	Ef-P16-208_CDS_0030		tail	default	default	0
+Ef-P10-208_CDS_0030	Ef-P10-208	34374:35102:1	CDS	tail fiber protein	Ef-P10-208_CDS_0032		tail	default	default	0
+Ef-P10-208_CDS_0031	Ef-P10-208	35139:35279:1	CDS	hypothetical protein	Ef-P20-208_CDS_0031		unknown function	default	default	0
+Ef-P10-208_CDS_0032	Ef-P10-208	35360:36064:1	CDS	tail fiber protein	Ef-P10-208_CDS_0032		tail	default	default	0
+Ef-P10-208_CDS_0033	Ef-P10-208	36151:36840:1	CDS	virion structural protein	Ef-P10-208_CDS_0033		head and packaging	default	default	0
+Ef-P10-208_CDS_0034	Ef-P10-208	36844:37380:1	CDS	virion structural protein	Ef-P10-208_CDS_0034		head and packaging	default	default	0
+Ef-P10-208_CDS_0035	Ef-P10-208	37367:38071:1	CDS	baseplate protein	Ef-P10-208_CDS_0035		tail	default	default	0
+Ef-P10-208_CDS_0036	Ef-P10-208	38087:39139:1	CDS	baseplate wedge subunit	Ef-P10-208_CDS_0036		tail	default	default	0
+Ef-P10-208_CDS_0037	Ef-P10-208	39157:42549:1	CDS	baseplate protein	Ef-P10-208_CDS_0037		tail	default	default	0
+Ef-P10-208_CDS_0038	Ef-P10-208	42564:42674:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0039		unknown function	default	default	0
+Ef-P10-208_CDS_0039	Ef-P10-208	42721:43200:1	CDS	virion structural protein	Ef-P10-208_CDS_0039		head and packaging	default	default	0
+Ef-P10-208_CDS_0040	Ef-P10-208	43215:46679:1	CDS	tail fiber protein	Ef-P10-208_CDS_0040		tail	default	default	0
+Ef-P10-208_CDS_0041	Ef-P10-208	46757:46963:1	CDS	hypothetical protein	Ef-P10-208_CDS_0041		unknown function	default	default	0
+Ef-P10-208_CDS_0042	Ef-P10-208	47218:48990:1	CDS	DNA helicase	Ef-P20-208_CDS_0042		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0043	Ef-P10-208	49018:50646:1	CDS	HTH DNA binding protein	Ef-P16-208_CDS_0044		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0044	Ef-P10-208	50679:52151:1	CDS	DnaB-like replicative helicase	Ef-P20-208_CDS_0044		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0045	Ef-P10-208	52151:53206:1	CDS	SbcD-like subunit of palindrome specific endonuclease	Ef-P16-208_CDS_0046		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0046	Ef-P10-208	53322:55214:1	CDS	SbcC-like subunit of palindrome specific endonuclease	Ef-P10-208_CDS_0046		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0047	Ef-P10-208	55223:55888:1	CDS	anti-sigma factor	Ef-P10-208_CDS_0047		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P10-208_CDS_0048	Ef-P10-208	55889:56947:1	CDS	DNA primase	Ef-P10-208_CDS_0048		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0049	Ef-P10-208	56964:57596:1	CDS	hypothetical protein	Ef-P10-208_CDS_0108		unknown function	default	default	0
+Ef-P10-208_CDS_0050	Ef-P10-208	57622:58506:1	CDS	dUTPase	Ef-P16-208_CDS_0051		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0051	Ef-P10-208	58509:58739:1	CDS	dUTPase	Ef-P16-208_CDS_0052		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0052	Ef-P10-208	58741:59049:1	CDS	hypothetical protein	Ef-P20-208_CDS_0052		unknown function	default	default	0
+Ef-P10-208_CDS_0053	Ef-P10-208	59036:59347:1	CDS	hypothetical protein	Ef-P20-208_CDS_0053		unknown function	default	default	0
+Ef-P10-208_CDS_0054	Ef-P10-208	59340:59711:1	CDS	hypothetical protein	Ef-P16-208_CDS_0055		unknown function	default	default	0
+Ef-P10-208_CDS_0055	Ef-P10-208	59731:60399:1	CDS	RusA-like Holliday junction resolvase	Ef-P20-208_CDS_0055		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0056	Ef-P10-208	60401:60700:1	CDS	hypothetical protein	Ef-P16-208_CDS_0057		unknown function	default	default	0
+Ef-P10-208_CDS_0057	Ef-P10-208	60706:61185:1	CDS	nucleotide kinase	Ef-P16-208_CDS_0058		other	default	default	0
+Ef-P10-208_CDS_0058	Ef-P10-208	61278:62072:1	CDS	DNA repair photolyase	Ef-P20-208_CDS_0058		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0059	Ef-P10-208	62065:62376:1	CDS	DNA binding protein	Ef-P16-208_CDS_0060		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0060	Ef-P10-208	62466:64856:1	CDS	DNA polymerase	Ef-P16-208_CDS_0061		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0061	Ef-P10-208	64989:65678:1	CDS	HNH endonuclease	Ef-P20-208_CDS_0061		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0062	Ef-P10-208	65630:65722:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0062		unknown function	default	default	0
+Ef-P10-208_CDS_0063	Ef-P10-208	65854:65943:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0063		unknown function	default	default	0
+Ef-P10-208_CDS_0064	Ef-P10-208	65964:66068:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0065		unknown function	default	default	0
+Ef-P10-208_CDS_0065	Ef-P10-208	66043:66522:1	CDS	DNA polymerase	Ef-P10-208_CDS_0065		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0066	Ef-P10-208	66625:67167:1	CDS	UvsY-like recombination mediator	Ef-P10-208_CDS_0066		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0067	Ef-P10-208	67224:68513:1	CDS	single strand DNA binding protein	Ef-P10-208_CDS_0067		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0068	Ef-P10-208	68598:69845:1	CDS	UvsX-like recombinase	Ef-P10-208_CDS_0068		other	default	default	0
+Ef-P10-208_CDS_0069	Ef-P10-208	69971:70285:1	CDS	hypothetical protein	Ef-P10-208_CDS_0069		unknown function	default	default	0
+Ef-P10-208_CDS_0070	Ef-P10-208	70278:70892:1	CDS	RNA polymerase sigma factor	Ef-P10-208_CDS_0070		transcription regulation	default	default	0
+Ef-P10-208_CDS_0071	Ef-P10-208	70953:71228:1	CDS	holin	Ef-P10-208_CDS_0071		lysis	default	default	0
+Ef-P10-208_CDS_0072	Ef-P10-208	71276:72238:1	CDS	structural protein with Ig domain	Ef-P10-208_CDS_0072		head and packaging	default	default	0
+Ef-P10-208_CDS_0073	Ef-P10-208	72259:72702:1	CDS	Ig domain containing protein	Ef-P10-208_CDS_0073		other	default	default	0
+Ef-P10-208_CDS_0074	Ef-P10-208	72677:72769:1	CDS	hypothetical protein	Ef-P10-208_CDS_0074		unknown function	default	default	0
+Ef-P10-208_CDS_0075	Ef-P10-208	72808:73104:1	CDS	hypothetical protein	Ef-P20-208_CDS_0073		unknown function	default	default	0
+Ef-P10-208_CDS_0076	Ef-P10-208	73109:74062:1	CDS	exopolyphosphatase	Ef-P16-208_CDS_0076		other	default	default	0
+Ef-P10-208_CDS_0077	Ef-P10-208	74116:75399:1	CDS	exonuclease	Ef-P10-208_CDS_0077		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0078	Ef-P10-208	75411:75785:1	CDS	hypothetical protein	Ef-P10-208_CDS_0078		unknown function	default	default	0
+Ef-P10-208_CDS_0079	Ef-P10-208	75824:76444:1	CDS	hypothetical protein	Ef-P16-208_CDS_0079		unknown function	default	default	0
+Ef-P10-208_CDS_0080	Ef-P10-208	76444:77184:1	CDS	DefenseFinder protein	Ef-P10-208_CDS_0080		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P10-208_CDS_0081	Ef-P10-208	77174:77680:1	CDS	hypothetical protein	Ef-P10-208_CDS_0081		unknown function	default	default	0
+Ef-P10-208_CDS_0082	Ef-P10-208	77694:78044:1	CDS	hypothetical protein	Ef-P16-208_CDS_0082		unknown function	default	default	0
+Ef-P10-208_CDS_0083	Ef-P10-208	78069:78926:1	CDS	hypothetical protein	Ef-P16-208_CDS_0083		unknown function	default	default	0
+Ef-P10-208_CDS_0084	Ef-P10-208	79033:79878:1	CDS	nucleotidyltransferase	Ef-P20-208_CDS_0082		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0085	Ef-P10-208	79871:81508:1	CDS	RNA ligase	Ef-P10-208_CDS_0085		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0086	Ef-P10-208	81790:81993:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0084		unknown function	default	default	0
+Ef-P10-208_CDS_0087	Ef-P10-208	81818:82507:1	CDS	hypothetical protein	Ef-P16-208_CDS_0087		unknown function	default	default	0
+Ef-P10-208_CDS_0088	Ef-P10-208	82518:82985:1	CDS	virion structural protein	Ef-P16-208_CDS_0088		head and packaging	default	default	0
+Ef-P10-208_CDS_0089	Ef-P10-208	83083:85359:1	CDS	DNA binding protein	Ef-P16-208_CDS_0089		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0090	Ef-P10-208	85458:85625:1	CDS	hypothetical protein	Ef-P10-208_CDS_0090		unknown function	default	default	0
+Ef-P10-208_CDS_0091	Ef-P10-208	85644:86150:1	CDS	hypothetical protein	Ef-P16-208_CDS_0091		unknown function	default	default	0
+Ef-P10-208_CDS_0092	Ef-P10-208	86225:86395:1	CDS	hypothetical protein	Ef-P16-208_CDS_0092		unknown function	default	default	0
+Ef-P10-208_CDS_0093	Ef-P10-208	86385:86657:1	CDS	hypothetical protein	Ef-P20-208_CDS_0092		unknown function	default	default	0
+Ef-P10-208_CDS_0094	Ef-P10-208	86765:87016:1	CDS	transcriptional repressor	Ef-P16-208_CDS_0094		transcription regulation	default	default	0
+Ef-P10-208_CDS_0095	Ef-P10-208	87028:87315:1	CDS	hypothetical protein	Ef-P20-208_CDS_0094		unknown function	default	default	0
+Ef-P10-208_CDS_0096	Ef-P10-208	87318:88106:1	CDS	hypothetical protein	Ef-P10-208_CDS_0096		unknown function	default	default	0
+Ef-P10-208_CDS_0097	Ef-P10-208	88188:89261:1	CDS	virion structural protein	Ef-P16-208_CDS_0097		head and packaging	default	default	0
+Ef-P10-208_CDS_0098	Ef-P10-208	89386:89688:1	CDS	hypothetical protein	Ef-P10-208_CDS_0098		unknown function	default	default	0
+Ef-P10-208_CDS_0099	Ef-P10-208	89690:89992:1	CDS	hypothetical protein	Ef-P10-208_CDS_0099		unknown function	default	default	0
+Ef-P10-208_CDS_0100	Ef-P10-208	89995:90288:1	CDS	hypothetical protein	Ef-P10-208_CDS_0100		unknown function	default	default	0
+Ef-P10-208_CDS_0101	Ef-P10-208	90285:90464:1	CDS	hypothetical protein	Ef-P10-208_CDS_0101		unknown function	default	default	0
+Ef-P10-208_CDS_0102	Ef-P10-208	90477:90830:1	CDS	hypothetical protein	Ef-P20-208_CDS_0101		unknown function	default	default	0
+Ef-P10-208_CDS_0103	Ef-P10-208	90857:91234:1	CDS	hypothetical protein	Ef-P10-208_CDS_0103		unknown function	default	default	0
+Ef-P10-208_CDS_0104	Ef-P10-208	91227:91457:1	CDS	hypothetical protein	Ef-P10-208_CDS_0104		unknown function	default	default	0
+Ef-P10-208_CDS_0105	Ef-P10-208	91461:91835:1	CDS	hypothetical protein	Ef-P16-208_CDS_0105		unknown function	default	default	0
+Ef-P10-208_CDS_0106	Ef-P10-208	91832:92074:1	CDS	hypothetical protein	Ef-P20-208_CDS_0105		unknown function	default	default	0
+Ef-P10-208_CDS_0107	Ef-P10-208	92092:92280:1	CDS	hypothetical protein	Ef-P20-208_CDS_0106		unknown function	default	default	0
+Ef-P10-208_CDS_0108	Ef-P10-208	92313:92876:1	CDS	hypothetical protein	Ef-P10-208_CDS_0108		unknown function	default	default	0
+Ef-P10-208_CDS_0109	Ef-P10-208	92918:93760:1	CDS	head morphogenesis	Ef-P20-208_CDS_0108		head and packaging	default	default	0
+Ef-P10-208_CDS_0110	Ef-P10-208	93773:94402:1	CDS	hypothetical protein	Ef-P16-208_CDS_0109		unknown function	default	default	0
+Ef-P10-208_CDS_0111	Ef-P10-208	94480:94722:1	CDS	hypothetical protein	Ef-P20-208_CDS_0110		unknown function	default	default	0
+Ef-P10-208_CDS_0112	Ef-P10-208	94737:94880:1	CDS	hypothetical protein	Ef-P10-208_CDS_0112		unknown function	default	default	0
+Ef-P10-208_CDS_0113	Ef-P10-208	94893:95087:1	CDS	hypothetical protein	Ef-P10-208_CDS_0113		unknown function	default	default	0
+Ef-P10-208_CDS_0114	Ef-P10-208	95103:95744:1	CDS	hypothetical protein	Ef-P20-208_CDS_0113		unknown function	default	default	0
+Ef-P10-208_CDS_0115	Ef-P10-208	95756:96199:1	CDS	hypothetical protein	Ef-P16-208_CDS_0115		unknown function	default	default	0
+Ef-P10-208_CDS_0116	Ef-P10-208	96351:96782:1	CDS	hypothetical protein	Ef-P20-208_CDS_0115		unknown function	default	default	0
+Ef-P10-208_CDS_0117	Ef-P10-208	96976:97065:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0117		unknown function	default	default	0
+Ef-P10-208_CDS_0118	Ef-P10-208	97139:97438:1	CDS	hypothetical protein	Ef-P20-208_CDS_0118		unknown function	default	default	0
+Ef-P10-208_CDS_0119	Ef-P10-208	97517:97807:1	CDS	hypothetical protein	Ef-P20-208_CDS_0119		unknown function	default	default	0
+Ef-P10-208_CDS_0120	Ef-P10-208	97891:98214:1	CDS	hypothetical protein	Ef-P20-208_CDS_0120		unknown function	default	default	0
+Ef-P10-208_CDS_0121	Ef-P10-208	98309:98449:1	CDS	hypothetical protein	Ef-P16-208_CDS_0120		unknown function	default	default	0
+Ef-P10-208_CDS_0122	Ef-P10-208	98508:98774:1	CDS	hypothetical protein	Ef-P20-208_CDS_0122		unknown function	default	default	0
+Ef-P10-208_CDS_0123	Ef-P10-208	98857:99084:1	CDS	hypothetical protein	Ef-P20-208_CDS_0123		unknown function	default	default	0
+Ef-P10-208_CDS_0124	Ef-P10-208	99160:99459:1	CDS	hypothetical protein	Ef-P20-208_CDS_0124		unknown function	default	default	0
+Ef-P10-208_CDS_0125	Ef-P10-208	99569:99775:1	CDS	hypothetical protein	Ef-P20-208_CDS_0125		unknown function	default	default	0
+Ef-P10-208_CDS_0126	Ef-P10-208	99859:100104:1	CDS	hypothetical protein	Ef-P20-208_CDS_0127		unknown function	default	default	0
+Ef-P10-208_CDS_0127	Ef-P10-208	100149:100355:1	CDS	hypothetical protein	Ef-P20-208_CDS_0129		unknown function	default	default	0
+Ef-P10-208_CDS_0128	Ef-P10-208	100374:100544:1	CDS	hypothetical protein	Ef-P20-208_CDS_0130		unknown function	default	default	0
+Ef-P10-208_CDS_0129	Ef-P10-208	100680:100985:1	CDS	hypothetical protein	Ef-P16-208_CDS_0127		unknown function	default	default	0
+Ef-P10-208_CDS_0130	Ef-P10-208	101055:101489:1	CDS	hypothetical protein	Ef-P10-208_CDS_0130		unknown function	default	default	0
+Ef-P10-208_CDS_0131	Ef-P10-208	101554:101823:1	CDS	anti-restriction protein	Ef-P10-208_CDS_0131		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P10-208_CDS_0132	Ef-P10-208	101817:102029:1	CDS	hypothetical protein	Ef-P16-208_CDS_0129		unknown function	default	default	0
+Ef-P10-208_CDS_0133	Ef-P10-208	102026:102331:1	CDS	hypothetical protein	Ef-P16-208_CDS_0130		unknown function	default	default	0
+Ef-P10-208_CDS_0134	Ef-P10-208	102319:102510:1	CDS	hypothetical protein	Ef-P20-208_CDS_0136		unknown function	default	default	0
+Ef-P10-208_CDS_0135	Ef-P10-208	102523:102882:1	CDS	hypothetical protein	Ef-P16-208_CDS_0132		unknown function	default	default	0
+Ef-P10-208_CDS_0136	Ef-P10-208	102887:102988:1	CDS	hypothetical protein	Ef-P16-208_CDS_0133		unknown function	default	default	0
+Ef-P10-208_CDS_0137	Ef-P10-208	103043:103165:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0137		unknown function	default	default	0
+Ef-P10-208_CDS_0138	Ef-P10-208	103878:104105:1	CDS	hypothetical protein	Ef-P10-208_CDS_0138		unknown function	default	default	0
+Ef-P10-208_CDS_0139	Ef-P10-208	104189:104461:1	CDS	hypothetical protein	Ef-P16-208_CDS_0135		unknown function	default	default	0
+Ef-P10-208_CDS_0140	Ef-P10-208	104497:104808:1	CDS	hypothetical protein	Ef-P16-208_CDS_0136		unknown function	default	default	0
+Ef-P10-208_CDS_0141	Ef-P10-208	104900:105058:1	CDS	hypothetical protein	Ef-P20-208_CDS_0147		unknown function	default	default	0
+Ef-P10-208_CDS_0142	Ef-P10-208	105194:105433:1	CDS	hypothetical protein	Ef-P20-208_CDS_0148		unknown function	default	default	0
+Ef-P10-208_CDS_0143	Ef-P10-208	105540:106235:1	CDS	anti-restriction protein	Ef-P16-208_CDS_0138		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P10-208_CDS_0144	Ef-P10-208	106342:106485:1	CDS	hypothetical protein	Ef-P10-208_CDS_0144		unknown function	default	default	0
+Ef-P10-208_CDS_0145	Ef-P10-208	106569:106835:1	CDS	hypothetical protein	Ef-P10-208_CDS_0145		unknown function	default	default	0
+Ef-P10-208_CDS_0146	Ef-P10-208	106908:107006:1	CDS	hypothetical protein	Ef-P10-208_CDS_0146		unknown function	default	default	0
+Ef-P10-208_CDS_0147	Ef-P10-208	107139:107282:1	CDS	hypothetical protein	Ef-P10-208_CDS_0147		unknown function	default	default	0
+Ef-P10-208_CDS_0148	Ef-P10-208	107313:107480:1	CDS	hypothetical protein	Ef-P10-208_CDS_0148		unknown function	default	default	0
+Ef-P10-208_CDS_0149	Ef-P10-208	107578:107805:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0149		unknown function	default	default	0
+Ef-P10-208_CDS_0150	Ef-P10-208	107835:108107:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0150		unknown function	default	default	0
+Ef-P10-208_CDS_0151	Ef-P10-208	108112:108432:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0155		unknown function	default	default	0
+Ef-P10-208_CDS_0152	Ef-P10-208	108486:108797:-1	CDS	membrane protein	Ef-P16-208_CDS_0145		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P10-208_CDS_0153	Ef-P10-208	108809:109057:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0153		unknown function	default	default	0
+Ef-P10-208_CDS_0154	Ef-P10-208	109058:109198:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0154		unknown function	default	default	0
+Ef-P10-208_CDS_0155	Ef-P10-208	109192:109290:1	CDS	hypothetical protein	Ef-P10-208_CDS_0155		unknown function	default	default	0
+Ef-P10-208_CDS_0156	Ef-P10-208	109419:109610:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0161		unknown function	default	default	0
+Ef-P10-208_CDS_0157	Ef-P10-208	109654:109878:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0157		unknown function	default	default	0
+Ef-P10-208_CDS_0158	Ef-P10-208	109892:110143:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0158		unknown function	default	default	0
+Ef-P10-208_CDS_0159	Ef-P10-208	110144:110524:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0164		unknown function	default	default	0
+Ef-P10-208_CDS_0160	Ef-P10-208	110545:110703:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0160		unknown function	default	default	0
+Ef-P10-208_CDS_0161	Ef-P10-208	110761:110958:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0161		unknown function	default	default	0
+Ef-P10-208_CDS_0162	Ef-P10-208	110958:111473:-1	CDS	DNA binding protein	Ef-P16-208_CDS_0157		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0163	Ef-P10-208	111486:111734:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0158		unknown function	default	default	0
+Ef-P10-208_CDS_0164	Ef-P10-208	111747:112271:-1	CDS	DNA binding protein	Ef-P16-208_CDS_0157		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0165	Ef-P10-208	112272:112664:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0165		unknown function	default	default	0
+Ef-P10-208_CDS_0166	Ef-P10-208	112657:113016:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0166		unknown function	default	default	0
+Ef-P10-208_CDS_0167	Ef-P10-208	113020:113190:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0167		unknown function	default	default	0
+Ef-P10-208_CDS_0168	Ef-P10-208	113178:113720:-1	CDS	RNA-binding protein	Ef-P16-208_CDS_0163		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0169	Ef-P10-208	113723:114187:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0164		unknown function	default	default	0
+Ef-P10-208_CDS_0170	Ef-P10-208	114184:114654:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0174		unknown function	default	default	0
+Ef-P10-208_CDS_0171	Ef-P10-208	114670:114762:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0175		unknown function	default	default	0
+Ef-P10-208_CDS_0172	Ef-P10-208	114858:115223:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0172		unknown function	default	default	0
+Ef-P10-208_CDS_0173	Ef-P10-208	115220:115402:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0167		unknown function	default	default	0
+Ef-P10-208_CDS_0174	Ef-P10-208	115413:115931:-1	CDS	DNA methyltransferase	Ef-P16-208_CDS_0168		other	default	default	0
+Ef-P10-208_CDS_0175	Ef-P10-208	115932:116405:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0175		unknown function	default	default	0
+Ef-P10-208_CDS_0176	Ef-P10-208	116402:117109:-1	CDS	minor head protein	Ef-P16-208_CDS_0170		head and packaging	default	default	0
+Ef-P10-208_CDS_0177	Ef-P10-208	117138:117578:-1	CDS	replication initiation protein	Ef-P16-208_CDS_0171		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0178	Ef-P10-208	117628:117816:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0178		unknown function	default	default	0
+Ef-P10-208_CDS_0179	Ef-P10-208	117813:118274:-1	CDS	sulfatase-modifying factor enzyme	Ef-P16-208_CDS_0173		other	default	default	0
+Ef-P10-208_CDS_0180	Ef-P10-208	118288:118464:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0174		unknown function	default	default	0
+Ef-P10-208_CDS_0181	Ef-P10-208	118461:118655:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0181		unknown function	default	default	0
+Ef-P10-208_CDS_0182	Ef-P10-208	118652:119089:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0186		unknown function	default	default	0
+Ef-P10-208_CDS_0183	Ef-P10-208	119182:119865:-1	CDS	NinI-like serine-threonine phosphatase	Ef-P10-208_CDS_0183		other	default	default	0
+Ef-P10-208_CDS_0184	Ef-P10-208	119919:120398:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0178		unknown function	default	default	0
+Ef-P10-208_CDS_0185	Ef-P10-208	120402:120653:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0179		unknown function	default	default	0
+Ef-P10-208_CDS_0186	Ef-P10-208	120650:121261:-1	CDS	phosphoesterase	Ef-P10-208_CDS_0186		other	default	default	0
+Ef-P10-208_CDS_0187	Ef-P10-208	121272:121589:-1	CDS	membrane protein	Ef-P20-208_CDS_0191		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P10-208_CDS_0188	Ef-P10-208	121619:121735:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0188		unknown function	default	default	0
+Ef-P10-208_CDS_0189	Ef-P10-208	121749:121961:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0189		unknown function	default	default	0
+Ef-P10-208_CDS_0190	Ef-P10-208	122042:122455:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0193		unknown function	default	default	0
+Ef-P10-208_CDS_0191	Ef-P10-208	122460:122843:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0191		unknown function	default	default	0
+Ef-P10-208_CDS_0192	Ef-P10-208	122910:123497:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0108		unknown function	default	default	0
+Ef-P10-208_CDS_0193	Ef-P10-208	123587:123760:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0193		unknown function	default	default	0
+Ef-P10-208_CDS_0194	Ef-P10-208	123750:124094:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0194		unknown function	default	default	0
+Ef-P10-208_CDS_0195	Ef-P10-208	124094:124348:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0188		unknown function	default	default	0
+Ef-P10-208_CDS_0196	Ef-P10-208	124329:124583:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0189		unknown function	default	default	0
+Ef-P10-208_CDS_0197	Ef-P10-208	124594:124929:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0197		unknown function	default	default	0
+Ef-P10-208_CDS_0198	Ef-P10-208	124904:125341:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0198		unknown function	default	default	0
+Ef-P10-208_CDS_0199	Ef-P10-208	125357:125818:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0199		unknown function	default	default	0
+Ef-P10-208_CDS_0200	Ef-P10-208	125811:126065:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0200		unknown function	default	default	0
+Ef-P10-208_CDS_0201	Ef-P10-208	126066:126287:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0201		unknown function	default	default	0
+Ef-P10-208_CDS_0202	Ef-P10-208	126275:126706:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0202		unknown function	default	default	0
+Ef-P10-208_CDS_0203	Ef-P10-208	126709:126939:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0203		unknown function	default	default	0
+Ef-P10-208_CDS_0204	Ef-P10-208	126936:127367:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0196		unknown function	default	default	0
+Ef-P10-208_CDS_0205	Ef-P10-208	127372:127524:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0205		unknown function	default	default	0
+Ef-P10-208_CDS_0206	Ef-P10-208	127524:128471:-1	CDS	thymidylate synthase	Ef-P20-208_CDS_0209		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0207	Ef-P10-208	128523:128909:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0199		unknown function	default	default	0
+Ef-P10-208_CDS_0208	Ef-P10-208	129002:129151:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0200		unknown function	default	default	0
+Ef-P10-208_CDS_0209	Ef-P10-208	129151:130008:-1	CDS	lipoprotein	Ef-P16-208_CDS_0201		other	default	default	0
+Ef-P10-208_CDS_0210	Ef-P10-208	130169:131152:-1	CDS	ribonucleoside diphosphate reductase small subunit	Ef-P20-208_CDS_0210		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0211	Ef-P10-208	131165:133315:-1	CDS	ribonucleoside-diphosphate reductase large subunit	Ef-P20-208_CDS_0211		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0212	Ef-P10-208	133318:133560:-1	CDS	thioredoxin domain	Ef-P20-208_CDS_0212		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0213	Ef-P10-208	133688:133894:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0213		unknown function	default	default	0
+Ef-P10-208_CDS_0214	Ef-P10-208	133960:134265:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0214		unknown function	default	default	0
+Ef-P10-208_CDS_0215	Ef-P10-208	134356:134586:-1	CDS	transcriptional repressor	Ef-P16-208_CDS_0215		transcription regulation	default	default	0
+Ef-P10-208_CDS_0216	Ef-P10-208	134650:134874:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0216		unknown function	default	default	0
+Ef-P10-208_CDS_0217	Ef-P10-208	134985:135269:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0217		unknown function	default	default	0
+Ef-P10-208_CDS_0218	Ef-P10-208	135418:136509:-1	CDS	ATPase	Ef-P16-208_CDS_0217		other	default	default	0
+Ef-P10-208_CDS_0219	Ef-P10-208	136576:136731:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0218		unknown function	default	default	0
+Ef-P10-208_CDS_0220	Ef-P10-208	137399:137545:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0220		unknown function	default	default	0
+Ef-P10-208_CDS_0221	Ef-P10-208	137550:137657:1	CDS	hypothetical protein	Ef-P10-208_CDS_0221		unknown function	default	default	0
+Ef-P10-208_CDS_0222	Ef-P10-208	137662:137844:1	CDS	hypothetical protein	Ef-P20-208_CDS_0220		unknown function	default	default	0
+Ef-P10-208_CDS_0223	Ef-P10-208	138320:138448:1	CDS	hypothetical protein	Ef-P10-208_CDS_0223		unknown function	default	default	0
+Ef-P10-208_CDS_0224	Ef-P10-208	138732:138854:1	CDS	hypothetical protein	Ef-P10-208_CDS_0224		unknown function	default	default	0
+Ef-P10-208_CDS_0225	Ef-P10-208	138944:139054:1	CDS	hypothetical protein	Ef-P16-208_CDS_0226		unknown function	default	default	0
+Ef-P10-208_CDS_0226	Ef-P10-208	139333:139434:1	CDS	hypothetical protein	Ef-P10-208_CDS_0226		unknown function	default	default	0
+Ef-P10-208_CDS_0227	Ef-P10-208	139391:139513:1	CDS	hypothetical protein	Ef-P10-208_CDS_0227		unknown function	default	default	0
+Ef-P10-208_CDS_0228	Ef-P10-208	139828:139983:1	CDS	hypothetical protein	Ef-P10-208_CDS_0228		unknown function	default	default	0
+Ef-P10-208_CDS_0229	Ef-P10-208	140090:140200:1	CDS	hypothetical protein	Ef-P10-208_CDS_0229		unknown function	default	default	0
+Ef-P10-208_CDS_0230	Ef-P10-208	140262:140354:1	CDS	hypothetical protein	Ef-P10-208_CDS_0230		unknown function	default	default	0
+Ef-P10-208_CDS_0231	Ef-P10-208	140438:140530:1	CDS	hypothetical protein	Ef-P10-208_CDS_0230		unknown function	default	default	0
+Ef-P10-208_CDS_0232	Ef-P10-208	140647:140985:-1	CDS	virion structural protein	Ef-P16-208_CDS_0232		head and packaging	default	default	0
+Ef-P10-208_CDS_0233	Ef-P10-208	141049:141393:-1	CDS	hemolysin	Ef-P10-208_CDS_0233		other	default	default	0
+Ef-P10-208_CDS_0234	Ef-P10-208	141428:141688:-1	CDS	membrane protein	Ef-P10-208_CDS_0234		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P10-208_CDS_0235	Ef-P10-208	141805:142074:1	CDS	membrane protein	Ef-P10-208_CDS_0235		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P10-208_CDS_0236	Ef-P10-208	142095:142373:1	CDS	hypothetical protein	Ef-P10-208_CDS_0236		unknown function	default	default	0
+Ef-P10-208_CDS_0237	Ef-P10-208	142377:142805:1	CDS	terminase small subunit	Ef-P10-208_CDS_0237		head and packaging	default	default	0
+Ef-P10-208_CDS_0238	Ef-P10-208	142805:143173:1	CDS	terminase large subunit	Ef-P10-208_CDS_0238		head and packaging	default	default	0
+Ef-P10-208_CDS_0239	Ef-P10-208	143319:143456:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0239		unknown function	default	default	0
+Ef-P16-208_CDS_0001	Ef-P16-208	34:1506:1	CDS	terminase large subunit	Ef-P16-208_CDS_0001		head and packaging	default	default	0
+Ef-P16-208_CDS_0002	Ef-P16-208	1606:2394:1	CDS	virion structural protein	Ef-P10-208_CDS_0002		head and packaging	default	default	0
+Ef-P16-208_CDS_0003	Ef-P16-208	2499:3215:1	CDS	hypothetical protein	Ef-P10-208_CDS_0003		unknown function	default	default	0
+Ef-P16-208_CDS_0004	Ef-P16-208	3205:3549:1	CDS	hypothetical protein	Ef-P16-208_CDS_0004		unknown function	default	default	0
+Ef-P16-208_CDS_0005	Ef-P16-208	3643:4512:1	CDS	endolysin	Ef-P16-208_CDS_0005		lysis	default	default	0
+Ef-P16-208_CDS_0006	Ef-P16-208	4679:5317:1	CDS	transglycosylase	Ef-P10-208_CDS_0006		other	default	default	0
+Ef-P16-208_CDS_0007	Ef-P16-208	5459:5803:1	CDS	portal protein	Ef-P10-208_CDS_0007		head and packaging	default	default	0
+Ef-P16-208_CDS_0008	Ef-P16-208	5889:5984:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0008		unknown function	default	default	0
+Ef-P16-208_CDS_0009	Ef-P16-208	6013:7542:1	CDS	portal protein	Ef-P16-208_CDS_0009		head and packaging	default	default	0
+Ef-P16-208_CDS_0010	Ef-P16-208	7549:7662:1	CDS	hypothetical protein	Ef-P10-208_CDS_0010		unknown function	default	default	0
+Ef-P16-208_CDS_0011	Ef-P16-208	7637:8440:1	CDS	head maturation protease	Ef-P16-208_CDS_0011		head and packaging	default	default	0
+Ef-P16-208_CDS_0012	Ef-P16-208	8447:9385:1	CDS	hypothetical protein	Ef-P16-208_CDS_0012		unknown function	default	default	0
+Ef-P16-208_CDS_0013	Ef-P16-208	9526:10920:1	CDS	major head protein	Ef-P10-208_CDS_0013		head and packaging	default	default	0
+Ef-P16-208_CDS_0014	Ef-P16-208	11025:11288:1	CDS	hypothetical protein	Ef-P10-208_CDS_0014		unknown function	default	default	0
+Ef-P16-208_CDS_0015	Ef-P16-208	11301:12200:1	CDS	tail fiber protein	Ef-P10-208_CDS_0015		tail	default	default	0
+Ef-P16-208_CDS_0016	Ef-P16-208	12220:13089:1	CDS	virion structural protein	Ef-P16-208_CDS_0016		head and packaging	default	default	0
+Ef-P16-208_CDS_0017	Ef-P16-208	13082:13705:1	CDS	hypothetical protein	Ef-P10-208_CDS_0017		unknown function	default	default	0
+Ef-P16-208_CDS_0018	Ef-P16-208	13709:14554:1	CDS	virion structural protein	Ef-P16-208_CDS_0018		head and packaging	default	default	0
+Ef-P16-208_CDS_0019	Ef-P16-208	14554:14787:1	CDS	hypothetical protein	Ef-P16-208_CDS_0019		unknown function	default	default	0
+Ef-P16-208_CDS_0020	Ef-P16-208	14791:16500:1	CDS	tail sheath	Ef-P20-208_CDS_0019		tail	default	default	0
+Ef-P16-208_CDS_0021	Ef-P16-208	16561:16953:1	CDS	virion structural protein	Ef-P10-208_CDS_0021		head and packaging	default	default	0
+Ef-P16-208_CDS_0022	Ef-P16-208	16971:17135:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0022		unknown function	default	default	0
+Ef-P16-208_CDS_0023	Ef-P16-208	17280:17435:1	CDS	hypothetical protein	Ef-P16-208_CDS_0023		unknown function	default	default	0
+Ef-P16-208_CDS_0024	Ef-P16-208	17461:17607:1	CDS	hypothetical protein	Ef-P16-208_CDS_0024		unknown function	default	default	0
+Ef-P16-208_CDS_0025	Ef-P16-208	17744:18217:1	CDS	tail assembly chaperone	Ef-P16-208_CDS_0025		tail	default	default	0
+Ef-P16-208_CDS_0026	Ef-P16-208	18285:18860:1	CDS	RNA polymerase beta subunit	Ef-P16-208_CDS_0026		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0027	Ef-P16-208	18905:22561:1	CDS	tail associated lysin	Ef-P20-208_CDS_0025		tail	default	default	0
+Ef-P16-208_CDS_0028	Ef-P16-208	22600:25785:1	CDS	tail protein with lysin activity	Ef-P16-208_CDS_0028		tail	default	default	0
+Ef-P16-208_CDS_0029	Ef-P16-208	25851:31349:1	CDS	tail fiber protein	Ef-P16-208_CDS_0029		tail	default	default	0
+Ef-P16-208_CDS_0030	Ef-P16-208	31449:33860:1	CDS	tail protein	Ef-P16-208_CDS_0030		tail	default	default	0
+Ef-P16-208_CDS_0031	Ef-P16-208	33854:34579:1	CDS	tail fiber protein	Ef-P10-208_CDS_0032		tail	default	default	0
+Ef-P16-208_CDS_0032	Ef-P16-208	34611:34757:1	CDS	hypothetical protein	Ef-P20-208_CDS_0031		unknown function	default	default	0
+Ef-P16-208_CDS_0033	Ef-P16-208	34832:34927:1	CDS	hypothetical protein	Ef-P16-208_CDS_0033		unknown function	default	default	0
+Ef-P16-208_CDS_0034	Ef-P16-208	34894:35583:1	CDS	virion structural protein	Ef-P10-208_CDS_0033		head and packaging	default	default	0
+Ef-P16-208_CDS_0035	Ef-P16-208	35587:36123:1	CDS	virion structural protein	Ef-P10-208_CDS_0034		head and packaging	default	default	0
+Ef-P16-208_CDS_0036	Ef-P16-208	36110:36814:1	CDS	baseplate protein	Ef-P10-208_CDS_0035		tail	default	default	0
+Ef-P16-208_CDS_0037	Ef-P16-208	36830:37882:1	CDS	baseplate wedge subunit	Ef-P10-208_CDS_0036		tail	default	default	0
+Ef-P16-208_CDS_0038	Ef-P16-208	37900:40311:1	CDS	baseplate protein	Ef-P16-208_CDS_0038		tail	default	default	0
+Ef-P16-208_CDS_0039	Ef-P16-208	40326:40436:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0039		unknown function	default	default	0
+Ef-P16-208_CDS_0040	Ef-P16-208	40483:40962:1	CDS	virion structural protein	Ef-P10-208_CDS_0039		head and packaging	default	default	0
+Ef-P16-208_CDS_0041	Ef-P16-208	40977:44441:1	CDS	tail fiber protein	Ef-P10-208_CDS_0040		tail	default	default	0
+Ef-P16-208_CDS_0042	Ef-P16-208	44520:44726:1	CDS	hypothetical protein	Ef-P10-208_CDS_0041		unknown function	default	default	0
+Ef-P16-208_CDS_0043	Ef-P16-208	44981:48025:1	CDS	DNA helicase	Ef-P16-208_CDS_0043		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0044	Ef-P16-208	48053:49681:1	CDS	HTH DNA binding protein	Ef-P16-208_CDS_0044		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0045	Ef-P16-208	49714:52248:1	CDS	DnaB-like replicative helicase	Ef-P16-208_CDS_0045		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0046	Ef-P16-208	52248:53303:1	CDS	SbcD-like subunit of palindrome specific endonuclease	Ef-P16-208_CDS_0046		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0047	Ef-P16-208	53419:55311:1	CDS	SbcC-like subunit of palindrome specific endonuclease	Ef-P10-208_CDS_0046		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0048	Ef-P16-208	55320:55985:1	CDS	anti-sigma factor	Ef-P10-208_CDS_0047		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P16-208_CDS_0049	Ef-P16-208	55986:57044:1	CDS	DNA primase	Ef-P10-208_CDS_0048		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0050	Ef-P16-208	57063:57695:1	CDS	hypothetical protein	Ef-P10-208_CDS_0108		unknown function	default	default	0
+Ef-P16-208_CDS_0051	Ef-P16-208	57724:58608:1	CDS	dUTPase	Ef-P16-208_CDS_0051		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0052	Ef-P16-208	58611:58841:1	CDS	dUTPase	Ef-P16-208_CDS_0052		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0053	Ef-P16-208	58843:59151:1	CDS	hypothetical protein	Ef-P20-208_CDS_0052		unknown function	default	default	0
+Ef-P16-208_CDS_0054	Ef-P16-208	59138:59449:1	CDS	hypothetical protein	Ef-P20-208_CDS_0053		unknown function	default	default	0
+Ef-P16-208_CDS_0055	Ef-P16-208	59442:59813:1	CDS	hypothetical protein	Ef-P16-208_CDS_0055		unknown function	default	default	0
+Ef-P16-208_CDS_0056	Ef-P16-208	59833:60501:1	CDS	RusA-like Holliday junction resolvase	Ef-P20-208_CDS_0055		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0057	Ef-P16-208	60503:60802:1	CDS	hypothetical protein	Ef-P16-208_CDS_0057		unknown function	default	default	0
+Ef-P16-208_CDS_0058	Ef-P16-208	60808:61287:1	CDS	nucleotide kinase	Ef-P16-208_CDS_0058		other	default	default	0
+Ef-P16-208_CDS_0059	Ef-P16-208	61380:62174:1	CDS	DNA repair photolyase	Ef-P20-208_CDS_0058		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0060	Ef-P16-208	62167:62478:1	CDS	DNA binding protein	Ef-P16-208_CDS_0060		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0061	Ef-P16-208	62568:64958:1	CDS	DNA polymerase	Ef-P16-208_CDS_0061		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0062	Ef-P16-208	65131:65229:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0062		unknown function	default	default	0
+Ef-P16-208_CDS_0063	Ef-P16-208	65194:65298:1	CDS	hypothetical protein	Ef-P16-208_CDS_0063		unknown function	default	default	0
+Ef-P16-208_CDS_0064	Ef-P16-208	65444:65533:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0063		unknown function	default	default	0
+Ef-P16-208_CDS_0065	Ef-P16-208	65554:65658:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0065		unknown function	default	default	0
+Ef-P16-208_CDS_0066	Ef-P16-208	65633:66112:1	CDS	DNA polymerase	Ef-P10-208_CDS_0065		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0067	Ef-P16-208	66215:66757:1	CDS	UvsY-like recombination mediator	Ef-P10-208_CDS_0066		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0068	Ef-P16-208	66814:68103:1	CDS	single strand DNA binding protein	Ef-P10-208_CDS_0067		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0069	Ef-P16-208	68188:69435:1	CDS	UvsX-like recombinase	Ef-P10-208_CDS_0068		other	default	default	0
+Ef-P16-208_CDS_0070	Ef-P16-208	69561:69875:1	CDS	hypothetical protein	Ef-P10-208_CDS_0069		unknown function	default	default	0
+Ef-P16-208_CDS_0071	Ef-P16-208	69868:70482:1	CDS	RNA polymerase sigma factor	Ef-P10-208_CDS_0070		transcription regulation	default	default	0
+Ef-P16-208_CDS_0072	Ef-P16-208	70543:70818:1	CDS	holin	Ef-P10-208_CDS_0071		lysis	default	default	0
+Ef-P16-208_CDS_0073	Ef-P16-208	70866:71828:1	CDS	structural protein with Ig domain	Ef-P10-208_CDS_0072		head and packaging	default	default	0
+Ef-P16-208_CDS_0074	Ef-P16-208	71849:72292:1	CDS	Ig domain containing protein	Ef-P10-208_CDS_0073		other	default	default	0
+Ef-P16-208_CDS_0075	Ef-P16-208	72399:72704:1	CDS	hypothetical protein	Ef-P20-208_CDS_0073		unknown function	default	default	0
+Ef-P16-208_CDS_0076	Ef-P16-208	72701:73654:1	CDS	exopolyphosphatase	Ef-P16-208_CDS_0076		other	default	default	0
+Ef-P16-208_CDS_0077	Ef-P16-208	73708:74991:1	CDS	exonuclease	Ef-P10-208_CDS_0077		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0078	Ef-P16-208	75003:75377:1	CDS	hypothetical protein	Ef-P10-208_CDS_0078		unknown function	default	default	0
+Ef-P16-208_CDS_0079	Ef-P16-208	75416:76036:1	CDS	hypothetical protein	Ef-P16-208_CDS_0079		unknown function	default	default	0
+Ef-P16-208_CDS_0080	Ef-P16-208	76036:76776:1	CDS	DefenseFinder protein	Ef-P10-208_CDS_0080		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P16-208_CDS_0081	Ef-P16-208	76766:77272:1	CDS	hypothetical protein	Ef-P10-208_CDS_0081		unknown function	default	default	0
+Ef-P16-208_CDS_0082	Ef-P16-208	77286:77636:1	CDS	hypothetical protein	Ef-P16-208_CDS_0082		unknown function	default	default	0
+Ef-P16-208_CDS_0083	Ef-P16-208	77661:78518:1	CDS	hypothetical protein	Ef-P16-208_CDS_0083		unknown function	default	default	0
+Ef-P16-208_CDS_0084	Ef-P16-208	78622:79467:1	CDS	nucleotidyltransferase	Ef-P20-208_CDS_0082		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0085	Ef-P16-208	79460:81088:1	CDS	hypothetical protein	Ef-P10-208_CDS_0085		unknown function	default	default	0
+Ef-P16-208_CDS_0086	Ef-P16-208	81262:81360:1	CDS	hypothetical protein	Ef-P16-208_CDS_0086		unknown function	default	default	0
+Ef-P16-208_CDS_0087	Ef-P16-208	81407:82096:1	CDS	hypothetical protein	Ef-P16-208_CDS_0087		unknown function	default	default	0
+Ef-P16-208_CDS_0088	Ef-P16-208	82107:82574:1	CDS	virion structural protein	Ef-P16-208_CDS_0088		head and packaging	default	default	0
+Ef-P16-208_CDS_0089	Ef-P16-208	82672:84954:1	CDS	DNA binding protein	Ef-P16-208_CDS_0089		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0090	Ef-P16-208	85044:85220:1	CDS	hypothetical protein	Ef-P10-208_CDS_0090		unknown function	default	default	0
+Ef-P16-208_CDS_0091	Ef-P16-208	85240:85746:1	CDS	hypothetical protein	Ef-P16-208_CDS_0091		unknown function	default	default	0
+Ef-P16-208_CDS_0092	Ef-P16-208	85820:85990:1	CDS	hypothetical protein	Ef-P16-208_CDS_0092		unknown function	default	default	0
+Ef-P16-208_CDS_0093	Ef-P16-208	85980:86252:1	CDS	hypothetical protein	Ef-P20-208_CDS_0092		unknown function	default	default	0
+Ef-P16-208_CDS_0094	Ef-P16-208	86360:86611:1	CDS	transcriptional repressor	Ef-P16-208_CDS_0094		transcription regulation	default	default	0
+Ef-P16-208_CDS_0095	Ef-P16-208	86623:86910:1	CDS	hypothetical protein	Ef-P20-208_CDS_0094		unknown function	default	default	0
+Ef-P16-208_CDS_0096	Ef-P16-208	86913:87701:1	CDS	hypothetical protein	Ef-P10-208_CDS_0096		unknown function	default	default	0
+Ef-P16-208_CDS_0097	Ef-P16-208	87783:88856:1	CDS	tail protein	Ef-P16-208_CDS_0097		tail	default	default	0
+Ef-P16-208_CDS_0098	Ef-P16-208	88983:89285:1	CDS	hypothetical protein	Ef-P10-208_CDS_0098		unknown function	default	default	0
+Ef-P16-208_CDS_0099	Ef-P16-208	89287:89589:1	CDS	hypothetical protein	Ef-P10-208_CDS_0099		unknown function	default	default	0
+Ef-P16-208_CDS_0100	Ef-P16-208	89592:89885:1	CDS	hypothetical protein	Ef-P10-208_CDS_0100		unknown function	default	default	0
+Ef-P16-208_CDS_0101	Ef-P16-208	89882:90061:1	CDS	hypothetical protein	Ef-P10-208_CDS_0101		unknown function	default	default	0
+Ef-P16-208_CDS_0102	Ef-P16-208	90074:90439:1	CDS	hypothetical protein	Ef-P20-208_CDS_0101		unknown function	default	default	0
+Ef-P16-208_CDS_0103	Ef-P16-208	90466:90843:1	CDS	hypothetical protein	Ef-P10-208_CDS_0103		unknown function	default	default	0
+Ef-P16-208_CDS_0104	Ef-P16-208	90836:91066:1	CDS	hypothetical protein	Ef-P10-208_CDS_0104		unknown function	default	default	0
+Ef-P16-208_CDS_0105	Ef-P16-208	91070:91444:1	CDS	hypothetical protein	Ef-P16-208_CDS_0105		unknown function	default	default	0
+Ef-P16-208_CDS_0106	Ef-P16-208	91441:91698:1	CDS	hypothetical protein	Ef-P20-208_CDS_0105		unknown function	default	default	0
+Ef-P16-208_CDS_0107	Ef-P16-208	91737:92297:1	CDS	hypothetical protein	Ef-P10-208_CDS_0108		unknown function	default	default	0
+Ef-P16-208_CDS_0108	Ef-P16-208	92339:93235:1	CDS	porphyrin biosynthesis	Ef-P20-208_CDS_0108		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P16-208_CDS_0109	Ef-P16-208	93236:93865:1	CDS	hypothetical protein	Ef-P16-208_CDS_0109		unknown function	default	default	0
+Ef-P16-208_CDS_0110	Ef-P16-208	93892:94008:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0110		unknown function	default	default	0
+Ef-P16-208_CDS_0111	Ef-P16-208	94028:94186:1	CDS	hypothetical protein	Ef-P16-208_CDS_0111		unknown function	default	default	0
+Ef-P16-208_CDS_0112	Ef-P16-208	94201:94344:1	CDS	hypothetical protein	Ef-P10-208_CDS_0112		unknown function	default	default	0
+Ef-P16-208_CDS_0113	Ef-P16-208	94357:94551:1	CDS	hypothetical protein	Ef-P10-208_CDS_0113		unknown function	default	default	0
+Ef-P16-208_CDS_0114	Ef-P16-208	94567:95217:1	CDS	hypothetical protein	Ef-P20-208_CDS_0113		unknown function	default	default	0
+Ef-P16-208_CDS_0115	Ef-P16-208	95230:95673:1	CDS	hypothetical protein	Ef-P16-208_CDS_0115		unknown function	default	default	0
+Ef-P16-208_CDS_0116	Ef-P16-208	95820:96266:1	CDS	hypothetical protein	Ef-P20-208_CDS_0115		unknown function	default	default	0
+Ef-P16-208_CDS_0117	Ef-P16-208	96431:96562:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0117		unknown function	default	default	0
+Ef-P16-208_CDS_0118	Ef-P16-208	96635:96934:1	CDS	hypothetical protein	Ef-P20-208_CDS_0118		unknown function	default	default	0
+Ef-P16-208_CDS_0119	Ef-P16-208	97006:97335:1	CDS	hypothetical protein	Ef-P20-208_CDS_0120		unknown function	default	default	0
+Ef-P16-208_CDS_0120	Ef-P16-208	97432:97572:1	CDS	hypothetical protein	Ef-P16-208_CDS_0120		unknown function	default	default	0
+Ef-P16-208_CDS_0121	Ef-P16-208	97631:97837:1	CDS	hypothetical protein	Ef-P20-208_CDS_0125		unknown function	default	default	0
+Ef-P16-208_CDS_0122	Ef-P16-208	97914:98162:1	CDS	hypothetical protein	Ef-P20-208_CDS_0126		unknown function	default	default	0
+Ef-P16-208_CDS_0123	Ef-P16-208	98240:98485:1	CDS	hypothetical protein	Ef-P20-208_CDS_0127		unknown function	default	default	0
+Ef-P16-208_CDS_0124	Ef-P16-208	98552:98782:1	CDS	hypothetical protein	Ef-P16-208_CDS_0124		unknown function	default	default	0
+Ef-P16-208_CDS_0125	Ef-P16-208	98833:99039:1	CDS	hypothetical protein	Ef-P20-208_CDS_0129		unknown function	default	default	0
+Ef-P16-208_CDS_0126	Ef-P16-208	99058:99228:1	CDS	hypothetical protein	Ef-P20-208_CDS_0130		unknown function	default	default	0
+Ef-P16-208_CDS_0127	Ef-P16-208	99364:99669:1	CDS	hypothetical protein	Ef-P16-208_CDS_0127		unknown function	default	default	0
+Ef-P16-208_CDS_0128	Ef-P16-208	99775:100206:1	CDS	hypothetical protein	Ef-P16-208_CDS_0128		unknown function	default	default	0
+Ef-P16-208_CDS_0129	Ef-P16-208	100365:100577:1	CDS	hypothetical protein	Ef-P16-208_CDS_0129		unknown function	default	default	0
+Ef-P16-208_CDS_0130	Ef-P16-208	100574:100879:1	CDS	hypothetical protein	Ef-P16-208_CDS_0130		unknown function	default	default	0
+Ef-P16-208_CDS_0131	Ef-P16-208	100867:100968:1	CDS	hypothetical protein	Ef-P16-208_CDS_0131		unknown function	default	default	0
+Ef-P16-208_CDS_0132	Ef-P16-208	100981:101340:1	CDS	hypothetical protein	Ef-P16-208_CDS_0132		unknown function	default	default	0
+Ef-P16-208_CDS_0133	Ef-P16-208	101345:101446:1	CDS	hypothetical protein	Ef-P16-208_CDS_0133		unknown function	default	default	0
+Ef-P16-208_CDS_0134	Ef-P16-208	102292:102396:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0134		unknown function	default	default	0
+Ef-P16-208_CDS_0135	Ef-P16-208	102388:102660:1	CDS	hypothetical protein	Ef-P16-208_CDS_0135		unknown function	default	default	0
+Ef-P16-208_CDS_0136	Ef-P16-208	102694:103005:1	CDS	hypothetical protein	Ef-P16-208_CDS_0136		unknown function	default	default	0
+Ef-P16-208_CDS_0137	Ef-P16-208	103077:103301:1	CDS	hypothetical protein	Ef-P16-208_CDS_0137		unknown function	default	default	0
+Ef-P16-208_CDS_0138	Ef-P16-208	103400:104095:1	CDS	anti-restriction protein	Ef-P16-208_CDS_0138		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P16-208_CDS_0139	Ef-P16-208	104233:104406:1	CDS	hypothetical protein	Ef-P16-208_CDS_0139		unknown function	default	default	0
+Ef-P16-208_CDS_0140	Ef-P16-208	104428:104703:1	CDS	hypothetical protein	Ef-P16-208_CDS_0140		unknown function	default	default	0
+Ef-P16-208_CDS_0141	Ef-P16-208	104743:104856:1	CDS	hypothetical protein	Ef-P16-208_CDS_0141		unknown function	default	default	0
+Ef-P16-208_CDS_0142	Ef-P16-208	104937:105203:1	CDS	hypothetical protein	Ef-P16-208_CDS_0142		unknown function	default	default	0
+Ef-P16-208_CDS_0143	Ef-P16-208	105222:105389:1	CDS	hypothetical protein	Ef-P10-208_CDS_0148		unknown function	default	default	0
+Ef-P16-208_CDS_0144	Ef-P16-208	105467:105787:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0155		unknown function	default	default	0
+Ef-P16-208_CDS_0145	Ef-P16-208	105841:106152:-1	CDS	membrane protein	Ef-P16-208_CDS_0145		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P16-208_CDS_0146	Ef-P16-208	106191:106286:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0157		unknown function	default	default	0
+Ef-P16-208_CDS_0147	Ef-P16-208	106258:106980:-1	CDS	cyanobacterial phosphoribosylglycinamide formyltransferase	Ef-P16-208_CDS_0147		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P16-208_CDS_0148	Ef-P16-208	106977:107246:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0153		unknown function	default	default	0
+Ef-P16-208_CDS_0149	Ef-P16-208	107247:107552:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0149		unknown function	default	default	0
+Ef-P16-208_CDS_0150	Ef-P16-208	107522:107626:1	CDS	hypothetical protein	Ef-P16-208_CDS_0150		unknown function	default	default	0
+Ef-P16-208_CDS_0151	Ef-P16-208	107775:107939:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0161		unknown function	default	default	0
+Ef-P16-208_CDS_0152	Ef-P16-208	108010:108234:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0157		unknown function	default	default	0
+Ef-P16-208_CDS_0153	Ef-P16-208	108248:108499:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0158		unknown function	default	default	0
+Ef-P16-208_CDS_0154	Ef-P16-208	108500:108880:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0164		unknown function	default	default	0
+Ef-P16-208_CDS_0155	Ef-P16-208	108901:109059:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0160		unknown function	default	default	0
+Ef-P16-208_CDS_0156	Ef-P16-208	109117:109314:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0161		unknown function	default	default	0
+Ef-P16-208_CDS_0157	Ef-P16-208	109314:109829:-1	CDS	DNA binding protein	Ef-P16-208_CDS_0157		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0158	Ef-P16-208	109842:110090:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0158		unknown function	default	default	0
+Ef-P16-208_CDS_0159	Ef-P16-208	110103:110627:-1	CDS	DNA binding protein	Ef-P16-208_CDS_0157		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0160	Ef-P16-208	110628:111020:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0165		unknown function	default	default	0
+Ef-P16-208_CDS_0161	Ef-P16-208	111013:111372:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0166		unknown function	default	default	0
+Ef-P16-208_CDS_0162	Ef-P16-208	111376:111546:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0167		unknown function	default	default	0
+Ef-P16-208_CDS_0163	Ef-P16-208	111534:112076:-1	CDS	RNA-binding protein	Ef-P16-208_CDS_0163		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0164	Ef-P16-208	112079:112543:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0164		unknown function	default	default	0
+Ef-P16-208_CDS_0165	Ef-P16-208	112540:112644:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0165		unknown function	default	default	0
+Ef-P16-208_CDS_0166	Ef-P16-208	112757:113122:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0172		unknown function	default	default	0
+Ef-P16-208_CDS_0167	Ef-P16-208	113119:113298:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0167		unknown function	default	default	0
+Ef-P16-208_CDS_0168	Ef-P16-208	113312:113830:-1	CDS	DNA methyltransferase	Ef-P16-208_CDS_0168		other	default	default	0
+Ef-P16-208_CDS_0169	Ef-P16-208	113831:114304:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0175		unknown function	default	default	0
+Ef-P16-208_CDS_0170	Ef-P16-208	114301:115011:-1	CDS	minor head protein	Ef-P16-208_CDS_0170		head and packaging	default	default	0
+Ef-P16-208_CDS_0171	Ef-P16-208	115037:115477:-1	CDS	replication initiation protein	Ef-P16-208_CDS_0171		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0172	Ef-P16-208	115527:115715:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0178		unknown function	default	default	0
+Ef-P16-208_CDS_0173	Ef-P16-208	115712:116173:-1	CDS	sulfatase-modifying factor enzyme	Ef-P16-208_CDS_0173		other	default	default	0
+Ef-P16-208_CDS_0174	Ef-P16-208	116187:116363:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0174		unknown function	default	default	0
+Ef-P16-208_CDS_0175	Ef-P16-208	116360:116557:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0181		unknown function	default	default	0
+Ef-P16-208_CDS_0176	Ef-P16-208	116554:116991:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0186		unknown function	default	default	0
+Ef-P16-208_CDS_0177	Ef-P16-208	117083:117766:-1	CDS	NinI-like serine-threonine phosphatase	Ef-P10-208_CDS_0183		other	default	default	0
+Ef-P16-208_CDS_0178	Ef-P16-208	117820:118299:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0178		unknown function	default	default	0
+Ef-P16-208_CDS_0179	Ef-P16-208	118303:118554:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0179		unknown function	default	default	0
+Ef-P16-208_CDS_0180	Ef-P16-208	118551:119162:-1	CDS	phosphoesterase	Ef-P10-208_CDS_0186		other	default	default	0
+Ef-P16-208_CDS_0181	Ef-P16-208	119173:119490:-1	CDS	membrane protein	Ef-P20-208_CDS_0191		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P16-208_CDS_0182	Ef-P16-208	119520:119642:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0188		unknown function	default	default	0
+Ef-P16-208_CDS_0183	Ef-P16-208	119723:120133:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0193		unknown function	default	default	0
+Ef-P16-208_CDS_0184	Ef-P16-208	120157:120534:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0184		unknown function	default	default	0
+Ef-P16-208_CDS_0185	Ef-P16-208	120547:120759:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0185		unknown function	default	default	0
+Ef-P16-208_CDS_0186	Ef-P16-208	120848:121021:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0193		unknown function	default	default	0
+Ef-P16-208_CDS_0187	Ef-P16-208	121011:121355:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0194		unknown function	default	default	0
+Ef-P16-208_CDS_0188	Ef-P16-208	121355:121609:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0188		unknown function	default	default	0
+Ef-P16-208_CDS_0189	Ef-P16-208	121590:121844:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0189		unknown function	default	default	0
+Ef-P16-208_CDS_0190	Ef-P16-208	121855:122190:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0197		unknown function	default	default	0
+Ef-P16-208_CDS_0191	Ef-P16-208	122165:122602:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0198		unknown function	default	default	0
+Ef-P16-208_CDS_0192	Ef-P16-208	122618:123079:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0199		unknown function	default	default	0
+Ef-P16-208_CDS_0193	Ef-P16-208	123072:123299:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0201		unknown function	default	default	0
+Ef-P16-208_CDS_0194	Ef-P16-208	123287:123718:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0202		unknown function	default	default	0
+Ef-P16-208_CDS_0195	Ef-P16-208	123721:123951:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0203		unknown function	default	default	0
+Ef-P16-208_CDS_0196	Ef-P16-208	123948:124379:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0196		unknown function	default	default	0
+Ef-P16-208_CDS_0197	Ef-P16-208	124384:124536:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0205		unknown function	default	default	0
+Ef-P16-208_CDS_0198	Ef-P16-208	124536:125993:-1	CDS	thymidylate synthase	Ef-P16-208_CDS_0198		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0199	Ef-P16-208	126043:126429:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0199		unknown function	default	default	0
+Ef-P16-208_CDS_0200	Ef-P16-208	126521:126670:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0200		unknown function	default	default	0
+Ef-P16-208_CDS_0201	Ef-P16-208	126670:127527:-1	CDS	lipoprotein	Ef-P16-208_CDS_0201		other	default	default	0
+Ef-P16-208_CDS_0202	Ef-P16-208	127689:128018:-1	CDS	ribonucleoside diphosphate reductase small subunit	Ef-P16-208_CDS_0202		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0203	Ef-P16-208	128097:128243:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0203		unknown function	default	default	0
+Ef-P16-208_CDS_0204	Ef-P16-208	128386:129015:-1	CDS	HNH endonuclease	Ef-P16-208_CDS_0204		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0205	Ef-P16-208	129130:129717:-1	CDS	ribonucleoside diphosphate reductase small subunit	Ef-P16-208_CDS_0205		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0206	Ef-P16-208	129730:130098:-1	CDS	ribonucleoside-diphosphate reductase large subunit	Ef-P16-208_CDS_0206		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0207	Ef-P16-208	130219:131004:-1	CDS	HNH endonuclease	Ef-P16-208_CDS_0207		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0208	Ef-P16-208	131096:131185:1	CDS	hypothetical protein	Ef-P16-208_CDS_0208		unknown function	default	default	0
+Ef-P16-208_CDS_0209	Ef-P16-208	131323:132477:-1	CDS	ribonucleoside-diphosphate reductase large subunit	Ef-P16-208_CDS_0209		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0210	Ef-P16-208	132630:133148:-1	CDS	HNH endonuclease	Ef-P16-208_CDS_0210		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0211	Ef-P16-208	133290:133880:-1	CDS	ribonucleotide reductase large subunit	Ef-P16-208_CDS_0211		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0212	Ef-P16-208	133883:134125:-1	CDS	thioredoxin domain	Ef-P20-208_CDS_0212		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0213	Ef-P16-208	134252:134458:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0213		unknown function	default	default	0
+Ef-P16-208_CDS_0214	Ef-P16-208	134524:134829:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0214		unknown function	default	default	0
+Ef-P16-208_CDS_0215	Ef-P16-208	134920:135150:-1	CDS	transcriptional repressor	Ef-P16-208_CDS_0215		transcription regulation	default	default	0
+Ef-P16-208_CDS_0216	Ef-P16-208	135214:135438:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0216		unknown function	default	default	0
+Ef-P16-208_CDS_0217	Ef-P16-208	135520:136611:-1	CDS	ATPase	Ef-P16-208_CDS_0217		other	default	default	0
+Ef-P16-208_CDS_0218	Ef-P16-208	136678:136833:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0218		unknown function	default	default	0
+Ef-P16-208_CDS_0219	Ef-P16-208	137142:137243:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0219		unknown function	default	default	0
+Ef-P16-208_CDS_0220	Ef-P16-208	137371:137637:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0220		unknown function	default	default	0
+Ef-P16-208_CDS_0221	Ef-P16-208	137849:137995:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0220		unknown function	default	default	0
+Ef-P16-208_CDS_0222	Ef-P16-208	138000:138107:1	CDS	hypothetical protein	Ef-P10-208_CDS_0221		unknown function	default	default	0
+Ef-P16-208_CDS_0223	Ef-P16-208	138172:138294:1	CDS	hypothetical protein	Ef-P16-208_CDS_0223		unknown function	default	default	0
+Ef-P16-208_CDS_0224	Ef-P16-208	138770:138898:1	CDS	hypothetical protein	Ef-P10-208_CDS_0223		unknown function	default	default	0
+Ef-P16-208_CDS_0225	Ef-P16-208	139181:139303:1	CDS	hypothetical protein	Ef-P10-208_CDS_0224		unknown function	default	default	0
+Ef-P16-208_CDS_0226	Ef-P16-208	139393:139503:1	CDS	hypothetical protein	Ef-P16-208_CDS_0226		unknown function	default	default	0
+Ef-P16-208_CDS_0227	Ef-P16-208	139782:139883:1	CDS	hypothetical protein	Ef-P10-208_CDS_0226		unknown function	default	default	0
+Ef-P16-208_CDS_0228	Ef-P16-208	139840:139962:1	CDS	hypothetical protein	Ef-P10-208_CDS_0227		unknown function	default	default	0
+Ef-P16-208_CDS_0229	Ef-P16-208	140279:140434:1	CDS	hypothetical protein	Ef-P10-208_CDS_0228		unknown function	default	default	0
+Ef-P16-208_CDS_0230	Ef-P16-208	140542:140658:1	CDS	hypothetical protein	Ef-P10-208_CDS_0229		unknown function	default	default	0
+Ef-P16-208_CDS_0231	Ef-P16-208	140712:140804:1	CDS	hypothetical protein	Ef-P10-208_CDS_0230		unknown function	default	default	0
+Ef-P16-208_CDS_0232	Ef-P16-208	140920:141258:-1	CDS	virion structural protein	Ef-P16-208_CDS_0232		head and packaging	default	default	0
+Ef-P16-208_CDS_0233	Ef-P16-208	141322:141666:-1	CDS	hemolysin	Ef-P10-208_CDS_0233		other	default	default	0
+Ef-P16-208_CDS_0234	Ef-P16-208	141701:141961:-1	CDS	membrane protein	Ef-P10-208_CDS_0234		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P16-208_CDS_0235	Ef-P16-208	142078:142347:1	CDS	membrane protein	Ef-P10-208_CDS_0235		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P16-208_CDS_0236	Ef-P16-208	142368:142646:1	CDS	hypothetical protein	Ef-P10-208_CDS_0236		unknown function	default	default	0
+Ef-P16-208_CDS_0237	Ef-P16-208	142650:143078:1	CDS	terminase small subunit	Ef-P10-208_CDS_0237		head and packaging	default	default	0
+Ef-P16-208_CDS_0238	Ef-P16-208	143078:143281:1	CDS	terminase large subunit	Ef-P16-208_CDS_0238		head and packaging	default	default	0
+Ef-P16-208_CDS_0239	Ef-P16-208	143240:143347:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0239		unknown function	default	default	0
+Ef-P16-208_CDS_0240	Ef-P16-208	143461:143574:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0240		unknown function	default	default	0
+Ef-P16-208_CDS_0241	Ef-P16-208	143537:144502:1	CDS	HNH endonuclease	Ef-P16-208_CDS_0241		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0242	Ef-P16-208	144479:144628:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0242		unknown function	default	default	0
+Ef-P16-208_CDS_0243	Ef-P16-208	144665:144784:1	CDS	hypothetical protein	Ef-P16-208_CDS_0243		unknown function	default	default	0
+Ef-P16-208_CDS_0244	Ef-P16-208	144892:145038:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0239		unknown function	default	default	0
+Ef-P20-208_CDS_0001	Ef-P20-208	1:1836:1	CDS	terminase large subunit	Ef-P16-208_CDS_0001		head and packaging	default	default	0
+Ef-P20-208_CDS_0002	Ef-P20-208	1936:2724:1	CDS	virion structural protein	Ef-P10-208_CDS_0002		head and packaging	default	default	0
+Ef-P20-208_CDS_0003	Ef-P20-208	2829:3545:1	CDS	hypothetical protein	Ef-P10-208_CDS_0003		unknown function	default	default	0
+Ef-P20-208_CDS_0004	Ef-P20-208	3535:3879:1	CDS	hypothetical protein	Ef-P16-208_CDS_0004		unknown function	default	default	0
+Ef-P20-208_CDS_0005	Ef-P20-208	3973:4842:1	CDS	endolysin	Ef-P16-208_CDS_0005		lysis	default	default	0
+Ef-P20-208_CDS_0006	Ef-P20-208	5009:5647:1	CDS	transglycosylase	Ef-P10-208_CDS_0006		other	default	default	0
+Ef-P20-208_CDS_0007	Ef-P20-208	5789:6133:1	CDS	portal protein	Ef-P10-208_CDS_0007		head and packaging	default	default	0
+Ef-P20-208_CDS_0008	Ef-P20-208	6211:7872:1	CDS	portal protein	Ef-P16-208_CDS_0009		head and packaging	default	default	0
+Ef-P20-208_CDS_0009	Ef-P20-208	7879:7992:1	CDS	hypothetical protein	Ef-P10-208_CDS_0010		unknown function	default	default	0
+Ef-P20-208_CDS_0010	Ef-P20-208	7964:8770:1	CDS	head maturation protease	Ef-P16-208_CDS_0011		head and packaging	default	default	0
+Ef-P20-208_CDS_0011	Ef-P20-208	8777:9712:1	CDS	hypothetical protein	Ef-P16-208_CDS_0012		unknown function	default	default	0
+Ef-P20-208_CDS_0012	Ef-P20-208	9853:11247:1	CDS	major head protein	Ef-P10-208_CDS_0013		head and packaging	default	default	0
+Ef-P20-208_CDS_0013	Ef-P20-208	11352:11609:1	CDS	hypothetical protein	Ef-P10-208_CDS_0014		unknown function	default	default	0
+Ef-P20-208_CDS_0014	Ef-P20-208	11622:12521:1	CDS	tail fiber protein	Ef-P10-208_CDS_0015		tail	default	default	0
+Ef-P20-208_CDS_0015	Ef-P20-208	12540:13409:1	CDS	virion structural protein	Ef-P16-208_CDS_0016		head and packaging	default	default	0
+Ef-P20-208_CDS_0016	Ef-P20-208	13402:14025:1	CDS	hypothetical protein	Ef-P10-208_CDS_0017		unknown function	default	default	0
+Ef-P20-208_CDS_0017	Ef-P20-208	14029:14874:1	CDS	virion structural protein	Ef-P16-208_CDS_0018		head and packaging	default	default	0
+Ef-P20-208_CDS_0018	Ef-P20-208	14874:15107:1	CDS	hypothetical protein	Ef-P16-208_CDS_0019		unknown function	default	default	0
+Ef-P20-208_CDS_0019	Ef-P20-208	15111:16820:1	CDS	tail sheath	Ef-P20-208_CDS_0019		tail	default	default	0
+Ef-P20-208_CDS_0020	Ef-P20-208	16881:17303:1	CDS	virion structural protein	Ef-P10-208_CDS_0021		head and packaging	default	default	0
+Ef-P20-208_CDS_0021	Ef-P20-208	17427:18263:1	CDS	HNH endonuclease	Ef-P20-208_CDS_0021		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0022	Ef-P20-208	18277:18423:1	CDS	hypothetical protein	Ef-P16-208_CDS_0024		unknown function	default	default	0
+Ef-P20-208_CDS_0023	Ef-P20-208	18560:19033:1	CDS	tail assembly chaperone	Ef-P16-208_CDS_0025		tail	default	default	0
+Ef-P20-208_CDS_0024	Ef-P20-208	19101:19676:1	CDS	RNA polymerase beta subunit	Ef-P16-208_CDS_0026		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0025	Ef-P20-208	19721:23377:1	CDS	tail associated lysin	Ef-P20-208_CDS_0025		tail	default	default	0
+Ef-P20-208_CDS_0026	Ef-P20-208	23416:26601:1	CDS	tail protein with lysin activity	Ef-P16-208_CDS_0028		tail	default	default	0
+Ef-P20-208_CDS_0027	Ef-P20-208	26664:32162:1	CDS	tail fiber protein	Ef-P16-208_CDS_0029		tail	default	default	0
+Ef-P20-208_CDS_0028	Ef-P20-208	32262:32672:1	CDS	tail protein	Ef-P20-208_CDS_0028		tail	default	default	0
+Ef-P20-208_CDS_0029	Ef-P20-208	32817:34490:1	CDS	tail protein	Ef-P20-208_CDS_0029		tail	default	default	0
+Ef-P20-208_CDS_0030	Ef-P20-208	34484:35209:1	CDS	tail fiber protein	Ef-P10-208_CDS_0032		tail	default	default	0
+Ef-P20-208_CDS_0031	Ef-P20-208	35241:35387:1	CDS	hypothetical protein	Ef-P20-208_CDS_0031		unknown function	default	default	0
+Ef-P20-208_CDS_0032	Ef-P20-208	35462:35557:1	CDS	hypothetical protein	Ef-P16-208_CDS_0033		unknown function	default	default	0
+Ef-P20-208_CDS_0033	Ef-P20-208	35524:36213:1	CDS	virion structural protein	Ef-P10-208_CDS_0033		head and packaging	default	default	0
+Ef-P20-208_CDS_0034	Ef-P20-208	36217:36753:1	CDS	virion structural protein	Ef-P10-208_CDS_0034		head and packaging	default	default	0
+Ef-P20-208_CDS_0035	Ef-P20-208	36740:37444:1	CDS	baseplate protein	Ef-P10-208_CDS_0035		tail	default	default	0
+Ef-P20-208_CDS_0036	Ef-P20-208	37460:38512:1	CDS	baseplate wedge subunit	Ef-P10-208_CDS_0036		tail	default	default	0
+Ef-P20-208_CDS_0037	Ef-P20-208	38531:39931:1	CDS	baseplate protein	Ef-P20-208_CDS_0037		tail	default	default	0
+Ef-P20-208_CDS_0038	Ef-P20-208	39928:40056:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0039		unknown function	default	default	0
+Ef-P20-208_CDS_0039	Ef-P20-208	40103:40582:1	CDS	virion structural protein	Ef-P10-208_CDS_0039		head and packaging	default	default	0
+Ef-P20-208_CDS_0040	Ef-P20-208	40597:44061:1	CDS	virion structural protein	Ef-P10-208_CDS_0040		head and packaging	default	default	0
+Ef-P20-208_CDS_0041	Ef-P20-208	44140:44346:1	CDS	hypothetical protein	Ef-P10-208_CDS_0041		unknown function	default	default	0
+Ef-P20-208_CDS_0042	Ef-P20-208	44603:46375:1	CDS	DNA helicase	Ef-P20-208_CDS_0042		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0043	Ef-P20-208	46403:48031:1	CDS	HTH DNA binding protein	Ef-P16-208_CDS_0044		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0044	Ef-P20-208	48064:49536:1	CDS	DnaB-like replicative helicase	Ef-P20-208_CDS_0044		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0045	Ef-P20-208	49536:50591:1	CDS	SbcD-like subunit of palindrome specific endonuclease	Ef-P16-208_CDS_0046		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0046	Ef-P20-208	50707:52599:1	CDS	SbcC-like subunit of palindrome specific endonuclease	Ef-P10-208_CDS_0046		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0047	Ef-P20-208	52608:53273:1	CDS	anti-sigma factor	Ef-P10-208_CDS_0047		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P20-208_CDS_0048	Ef-P20-208	53274:54332:1	CDS	DNA primase	Ef-P10-208_CDS_0048		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0049	Ef-P20-208	54350:54982:1	CDS	DarB-like antirestriction	Ef-P10-208_CDS_0108		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P20-208_CDS_0050	Ef-P20-208	55011:55895:1	CDS	dUTPase	Ef-P16-208_CDS_0051		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0051	Ef-P20-208	55898:56128:1	CDS	dUTPase	Ef-P16-208_CDS_0052		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0052	Ef-P20-208	56130:56438:1	CDS	hypothetical protein	Ef-P20-208_CDS_0052		unknown function	default	default	0
+Ef-P20-208_CDS_0053	Ef-P20-208	56425:56736:1	CDS	hypothetical protein	Ef-P20-208_CDS_0053		unknown function	default	default	0
+Ef-P20-208_CDS_0054	Ef-P20-208	56729:57100:1	CDS	hypothetical protein	Ef-P16-208_CDS_0055		unknown function	default	default	0
+Ef-P20-208_CDS_0055	Ef-P20-208	57120:57788:1	CDS	RusA-like Holliday junction resolvase	Ef-P20-208_CDS_0055		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0056	Ef-P20-208	57790:58089:1	CDS	hypothetical protein	Ef-P16-208_CDS_0057		unknown function	default	default	0
+Ef-P20-208_CDS_0057	Ef-P20-208	58095:58574:1	CDS	nucleotide kinase	Ef-P16-208_CDS_0058		other	default	default	0
+Ef-P20-208_CDS_0058	Ef-P20-208	58667:59461:1	CDS	DNA repair photolyase	Ef-P20-208_CDS_0058		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0059	Ef-P20-208	59454:59765:1	CDS	DNA binding protein	Ef-P16-208_CDS_0060		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0060	Ef-P20-208	59855:62245:1	CDS	DNA polymerase	Ef-P16-208_CDS_0061		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0061	Ef-P20-208	62378:63067:1	CDS	HNH endonuclease	Ef-P20-208_CDS_0061		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0062	Ef-P20-208	63083:63274:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0062		unknown function	default	default	0
+Ef-P20-208_CDS_0063	Ef-P20-208	63353:63451:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0065		unknown function	default	default	0
+Ef-P20-208_CDS_0064	Ef-P20-208	63432:63911:1	CDS	DNA polymerase	Ef-P10-208_CDS_0065		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0065	Ef-P20-208	64014:64556:1	CDS	UvsY-like recombination mediator	Ef-P10-208_CDS_0066		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0066	Ef-P20-208	64618:65907:1	CDS	single strand DNA binding protein	Ef-P10-208_CDS_0067		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0067	Ef-P20-208	65992:67239:1	CDS	UvsX-like recombinase	Ef-P10-208_CDS_0068		other	default	default	0
+Ef-P20-208_CDS_0068	Ef-P20-208	67365:67679:1	CDS	hypothetical protein	Ef-P10-208_CDS_0069		unknown function	default	default	0
+Ef-P20-208_CDS_0069	Ef-P20-208	67672:68286:1	CDS	RNA polymerase sigma factor	Ef-P10-208_CDS_0070		transcription regulation	default	default	0
+Ef-P20-208_CDS_0070	Ef-P20-208	68347:68622:1	CDS	holin	Ef-P10-208_CDS_0071		lysis	default	default	0
+Ef-P20-208_CDS_0071	Ef-P20-208	68670:69632:1	CDS	structural protein with Ig domain	Ef-P10-208_CDS_0072		head and packaging	default	default	0
+Ef-P20-208_CDS_0072	Ef-P20-208	69653:70096:1	CDS	Ig domain containing protein	Ef-P10-208_CDS_0073		other	default	default	0
+Ef-P20-208_CDS_0073	Ef-P20-208	70203:70499:1	CDS	hypothetical protein	Ef-P20-208_CDS_0073		unknown function	default	default	0
+Ef-P20-208_CDS_0074	Ef-P20-208	70504:71457:1	CDS	exopolyphosphatase	Ef-P16-208_CDS_0076		other	default	default	0
+Ef-P20-208_CDS_0075	Ef-P20-208	71511:72794:1	CDS	exonuclease	Ef-P10-208_CDS_0077		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0076	Ef-P20-208	72806:73180:1	CDS	hypothetical protein	Ef-P10-208_CDS_0078		unknown function	default	default	0
+Ef-P20-208_CDS_0077	Ef-P20-208	73219:73839:1	CDS	hypothetical protein	Ef-P16-208_CDS_0079		unknown function	default	default	0
+Ef-P20-208_CDS_0078	Ef-P20-208	73839:74579:1	CDS	DefenseFinder protein	Ef-P10-208_CDS_0080		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P20-208_CDS_0079	Ef-P20-208	74569:75075:1	CDS	hypothetical protein	Ef-P10-208_CDS_0081		unknown function	default	default	0
+Ef-P20-208_CDS_0080	Ef-P20-208	75089:75439:1	CDS	hypothetical protein	Ef-P16-208_CDS_0082		unknown function	default	default	0
+Ef-P20-208_CDS_0081	Ef-P20-208	75464:76321:1	CDS	hypothetical protein	Ef-P16-208_CDS_0083		unknown function	default	default	0
+Ef-P20-208_CDS_0082	Ef-P20-208	76425:77270:1	CDS	nucleotidyltransferase	Ef-P20-208_CDS_0082		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0083	Ef-P20-208	77263:78900:1	CDS	hypothetical protein	Ef-P10-208_CDS_0085		unknown function	default	default	0
+Ef-P20-208_CDS_0084	Ef-P20-208	79182:79385:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0084		unknown function	default	default	0
+Ef-P20-208_CDS_0085	Ef-P20-208	79210:79899:1	CDS	hypothetical protein	Ef-P16-208_CDS_0087		unknown function	default	default	0
+Ef-P20-208_CDS_0086	Ef-P20-208	79910:80377:1	CDS	virion structural protein	Ef-P16-208_CDS_0088		head and packaging	default	default	0
+Ef-P20-208_CDS_0087	Ef-P20-208	80474:82756:1	CDS	DNA binding protein	Ef-P16-208_CDS_0089		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0088	Ef-P20-208	82846:83022:1	CDS	hypothetical protein	Ef-P10-208_CDS_0090		unknown function	default	default	0
+Ef-P20-208_CDS_0089	Ef-P20-208	83041:83547:1	CDS	hypothetical protein	Ef-P16-208_CDS_0091		unknown function	default	default	0
+Ef-P20-208_CDS_0090	Ef-P20-208	83620:83724:1	CDS	hypothetical protein	Ef-P20-208_CDS_0090		unknown function	default	default	0
+Ef-P20-208_CDS_0091	Ef-P20-208	83726:83896:1	CDS	hypothetical protein	Ef-P16-208_CDS_0092		unknown function	default	default	0
+Ef-P20-208_CDS_0092	Ef-P20-208	83886:84158:1	CDS	hypothetical protein	Ef-P20-208_CDS_0092		unknown function	default	default	0
+Ef-P20-208_CDS_0093	Ef-P20-208	84266:84517:1	CDS	transcriptional repressor	Ef-P16-208_CDS_0094		transcription regulation	default	default	0
+Ef-P20-208_CDS_0094	Ef-P20-208	84530:84817:1	CDS	hypothetical protein	Ef-P20-208_CDS_0094		unknown function	default	default	0
+Ef-P20-208_CDS_0095	Ef-P20-208	84820:85608:1	CDS	hypothetical protein	Ef-P10-208_CDS_0096		unknown function	default	default	0
+Ef-P20-208_CDS_0096	Ef-P20-208	85690:86763:1	CDS	virion structural protein	Ef-P16-208_CDS_0097		head and packaging	default	default	0
+Ef-P20-208_CDS_0097	Ef-P20-208	86888:87190:1	CDS	hypothetical protein	Ef-P10-208_CDS_0098		unknown function	default	default	0
+Ef-P20-208_CDS_0098	Ef-P20-208	87192:87494:1	CDS	hypothetical protein	Ef-P10-208_CDS_0099		unknown function	default	default	0
+Ef-P20-208_CDS_0099	Ef-P20-208	87497:87790:1	CDS	hypothetical protein	Ef-P10-208_CDS_0100		unknown function	default	default	0
+Ef-P20-208_CDS_0100	Ef-P20-208	87787:87966:1	CDS	hypothetical protein	Ef-P10-208_CDS_0101		unknown function	default	default	0
+Ef-P20-208_CDS_0101	Ef-P20-208	87979:88332:1	CDS	hypothetical protein	Ef-P20-208_CDS_0101		unknown function	default	default	0
+Ef-P20-208_CDS_0102	Ef-P20-208	88359:88736:1	CDS	hypothetical protein	Ef-P10-208_CDS_0103		unknown function	default	default	0
+Ef-P20-208_CDS_0103	Ef-P20-208	88729:88959:1	CDS	hypothetical protein	Ef-P10-208_CDS_0104		unknown function	default	default	0
+Ef-P20-208_CDS_0104	Ef-P20-208	88963:89337:1	CDS	hypothetical protein	Ef-P16-208_CDS_0105		unknown function	default	default	0
+Ef-P20-208_CDS_0105	Ef-P20-208	89334:89576:1	CDS	hypothetical protein	Ef-P20-208_CDS_0105		unknown function	default	default	0
+Ef-P20-208_CDS_0106	Ef-P20-208	89594:89782:1	CDS	hypothetical protein	Ef-P20-208_CDS_0106		unknown function	default	default	0
+Ef-P20-208_CDS_0107	Ef-P20-208	89815:90378:1	CDS	hypothetical protein	Ef-P10-208_CDS_0108		unknown function	default	default	0
+Ef-P20-208_CDS_0108	Ef-P20-208	90420:91262:1	CDS	head morphogenesis	Ef-P20-208_CDS_0108		head and packaging	default	default	0
+Ef-P20-208_CDS_0109	Ef-P20-208	91275:91904:1	CDS	hypothetical protein	Ef-P16-208_CDS_0109		unknown function	default	default	0
+Ef-P20-208_CDS_0110	Ef-P20-208	91982:92224:1	CDS	hypothetical protein	Ef-P20-208_CDS_0110		unknown function	default	default	0
+Ef-P20-208_CDS_0111	Ef-P20-208	92239:92364:1	CDS	hypothetical protein	Ef-P10-208_CDS_0112		unknown function	default	default	0
+Ef-P20-208_CDS_0112	Ef-P20-208	92377:92571:1	CDS	hypothetical protein	Ef-P10-208_CDS_0113		unknown function	default	default	0
+Ef-P20-208_CDS_0113	Ef-P20-208	92587:93228:1	CDS	hypothetical protein	Ef-P20-208_CDS_0113		unknown function	default	default	0
+Ef-P20-208_CDS_0114	Ef-P20-208	93240:93683:1	CDS	hypothetical protein	Ef-P16-208_CDS_0115		unknown function	default	default	0
+Ef-P20-208_CDS_0115	Ef-P20-208	93835:94266:1	CDS	hypothetical protein	Ef-P20-208_CDS_0115		unknown function	default	default	0
+Ef-P20-208_CDS_0116	Ef-P20-208	94334:94441:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0116		unknown function	default	default	0
+Ef-P20-208_CDS_0117	Ef-P20-208	94460:94549:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0117		unknown function	default	default	0
+Ef-P20-208_CDS_0118	Ef-P20-208	94623:94922:1	CDS	hypothetical protein	Ef-P20-208_CDS_0118		unknown function	default	default	0
+Ef-P20-208_CDS_0119	Ef-P20-208	95000:95290:1	CDS	hypothetical protein	Ef-P20-208_CDS_0119		unknown function	default	default	0
+Ef-P20-208_CDS_0120	Ef-P20-208	95373:95696:1	CDS	hypothetical protein	Ef-P20-208_CDS_0120		unknown function	default	default	0
+Ef-P20-208_CDS_0121	Ef-P20-208	95792:95932:1	CDS	hypothetical protein	Ef-P16-208_CDS_0120		unknown function	default	default	0
+Ef-P20-208_CDS_0122	Ef-P20-208	95991:96257:1	CDS	hypothetical protein	Ef-P20-208_CDS_0122		unknown function	default	default	0
+Ef-P20-208_CDS_0123	Ef-P20-208	96339:96566:1	CDS	hypothetical protein	Ef-P20-208_CDS_0123		unknown function	default	default	0
+Ef-P20-208_CDS_0124	Ef-P20-208	96649:96942:1	CDS	hypothetical protein	Ef-P20-208_CDS_0124		unknown function	default	default	0
+Ef-P20-208_CDS_0125	Ef-P20-208	97049:97255:1	CDS	hypothetical protein	Ef-P20-208_CDS_0125		unknown function	default	default	0
+Ef-P20-208_CDS_0126	Ef-P20-208	97336:97578:1	CDS	hypothetical protein	Ef-P20-208_CDS_0126		unknown function	default	default	0
+Ef-P20-208_CDS_0127	Ef-P20-208	97655:97900:1	CDS	hypothetical protein	Ef-P20-208_CDS_0127		unknown function	default	default	0
+Ef-P20-208_CDS_0128	Ef-P20-208	97967:98206:1	CDS	hypothetical protein	Ef-P16-208_CDS_0124		unknown function	default	default	0
+Ef-P20-208_CDS_0129	Ef-P20-208	98257:98463:1	CDS	hypothetical protein	Ef-P20-208_CDS_0129		unknown function	default	default	0
+Ef-P20-208_CDS_0130	Ef-P20-208	98482:98652:1	CDS	hypothetical protein	Ef-P20-208_CDS_0130		unknown function	default	default	0
+Ef-P20-208_CDS_0131	Ef-P20-208	98649:98738:1	CDS	hypothetical protein	Ef-P20-208_CDS_0131		unknown function	default	default	0
+Ef-P20-208_CDS_0132	Ef-P20-208	98787:99092:1	CDS	hypothetical protein	Ef-P16-208_CDS_0127		unknown function	default	default	0
+Ef-P20-208_CDS_0133	Ef-P20-208	99163:99513:1	CDS	hypothetical protein	Ef-P20-208_CDS_0133		unknown function	default	default	0
+Ef-P20-208_CDS_0134	Ef-P20-208	99545:99970:1	CDS	hypothetical protein	Ef-P20-208_CDS_0134		unknown function	default	default	0
+Ef-P20-208_CDS_0135	Ef-P20-208	99964:100176:1	CDS	hypothetical protein	Ef-P16-208_CDS_0129		unknown function	default	default	0
+Ef-P20-208_CDS_0136	Ef-P20-208	100205:100396:1	CDS	hypothetical protein	Ef-P20-208_CDS_0136		unknown function	default	default	0
+Ef-P20-208_CDS_0137	Ef-P20-208	100409:100768:1	CDS	hypothetical protein	Ef-P16-208_CDS_0132		unknown function	default	default	0
+Ef-P20-208_CDS_0138	Ef-P20-208	100773:100874:1	CDS	hypothetical protein	Ef-P16-208_CDS_0133		unknown function	default	default	0
+Ef-P20-208_CDS_0139	Ef-P20-208	100903:101049:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0137		unknown function	default	default	0
+Ef-P20-208_CDS_0140	Ef-P20-208	101702:101791:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0140		unknown function	default	default	0
+Ef-P20-208_CDS_0141	Ef-P20-208	101769:102035:1	CDS	hypothetical protein	Ef-P10-208_CDS_0145		unknown function	default	default	0
+Ef-P20-208_CDS_0142	Ef-P20-208	102133:102300:1	CDS	hypothetical protein	Ef-P20-208_CDS_0142		unknown function	default	default	0
+Ef-P20-208_CDS_0143	Ef-P20-208	102395:102571:1	CDS	hypothetical protein	Ef-P20-208_CDS_0143		unknown function	default	default	0
+Ef-P20-208_CDS_0144	Ef-P20-208	102650:102784:1	CDS	hypothetical protein	Ef-P20-208_CDS_0144		unknown function	default	default	0
+Ef-P20-208_CDS_0145	Ef-P20-208	102866:103090:1	CDS	hypothetical protein	Ef-P16-208_CDS_0137		unknown function	default	default	0
+Ef-P20-208_CDS_0146	Ef-P20-208	103193:103501:1	CDS	hypothetical protein	Ef-P20-208_CDS_0146		unknown function	default	default	0
+Ef-P20-208_CDS_0147	Ef-P20-208	103569:103727:1	CDS	hypothetical protein	Ef-P20-208_CDS_0147		unknown function	default	default	0
+Ef-P20-208_CDS_0148	Ef-P20-208	103862:104101:1	CDS	hypothetical protein	Ef-P20-208_CDS_0148		unknown function	default	default	0
+Ef-P20-208_CDS_0149	Ef-P20-208	104182:104427:1	CDS	hypothetical protein	Ef-P20-208_CDS_0149		unknown function	default	default	0
+Ef-P20-208_CDS_0150	Ef-P20-208	104440:104661:1	CDS	hypothetical protein	Ef-P20-208_CDS_0150		unknown function	default	default	0
+Ef-P20-208_CDS_0151	Ef-P20-208	104748:104942:1	CDS	hypothetical protein	Ef-P20-208_CDS_0151		unknown function	default	default	0
+Ef-P20-208_CDS_0152	Ef-P20-208	104972:105151:1	CDS	hypothetical protein	Ef-P20-208_CDS_0152		unknown function	default	default	0
+Ef-P20-208_CDS_0153	Ef-P20-208	105215:105382:1	CDS	hypothetical protein	Ef-P10-208_CDS_0148		unknown function	default	default	0
+Ef-P20-208_CDS_0154	Ef-P20-208	105459:105743:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0154		unknown function	default	default	0
+Ef-P20-208_CDS_0155	Ef-P20-208	105766:106077:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0155		unknown function	default	default	0
+Ef-P20-208_CDS_0156	Ef-P20-208	106130:106441:-1	CDS	membrane protein	Ef-P16-208_CDS_0145		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P20-208_CDS_0157	Ef-P20-208	106480:106575:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0157		unknown function	default	default	0
+Ef-P20-208_CDS_0158	Ef-P20-208	106547:107269:-1	CDS	cyanobacterial phosphoribosylglycinamide formyltransferase	Ef-P16-208_CDS_0147		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P20-208_CDS_0159	Ef-P20-208	107266:107535:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0153		unknown function	default	default	0
+Ef-P20-208_CDS_0160	Ef-P20-208	107536:107841:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0149		unknown function	default	default	0
+Ef-P20-208_CDS_0161	Ef-P20-208	108060:108251:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0161		unknown function	default	default	0
+Ef-P20-208_CDS_0162	Ef-P20-208	108295:108519:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0157		unknown function	default	default	0
+Ef-P20-208_CDS_0163	Ef-P20-208	108533:108937:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0163		unknown function	default	default	0
+Ef-P20-208_CDS_0164	Ef-P20-208	108938:109315:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0164		unknown function	default	default	0
+Ef-P20-208_CDS_0165	Ef-P20-208	109327:109524:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0161		unknown function	default	default	0
+Ef-P20-208_CDS_0166	Ef-P20-208	109524:110039:-1	CDS	DNA binding protein	Ef-P16-208_CDS_0157		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0167	Ef-P20-208	110052:110300:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0158		unknown function	default	default	0
+Ef-P20-208_CDS_0168	Ef-P20-208	110313:110837:-1	CDS	DNA binding protein	Ef-P16-208_CDS_0157		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0169	Ef-P20-208	110838:111230:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0165		unknown function	default	default	0
+Ef-P20-208_CDS_0170	Ef-P20-208	111223:111582:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0166		unknown function	default	default	0
+Ef-P20-208_CDS_0171	Ef-P20-208	111586:111756:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0167		unknown function	default	default	0
+Ef-P20-208_CDS_0172	Ef-P20-208	111744:112286:-1	CDS	RNA-binding protein	Ef-P16-208_CDS_0163		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0173	Ef-P20-208	112289:112753:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0164		unknown function	default	default	0
+Ef-P20-208_CDS_0174	Ef-P20-208	112750:113220:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0174		unknown function	default	default	0
+Ef-P20-208_CDS_0175	Ef-P20-208	113236:113328:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0175		unknown function	default	default	0
+Ef-P20-208_CDS_0176	Ef-P20-208	113423:113788:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0172		unknown function	default	default	0
+Ef-P20-208_CDS_0177	Ef-P20-208	113785:113964:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0167		unknown function	default	default	0
+Ef-P20-208_CDS_0178	Ef-P20-208	113978:114496:-1	CDS	DNA methyltransferase	Ef-P16-208_CDS_0168		other	default	default	0
+Ef-P20-208_CDS_0179	Ef-P20-208	114497:114970:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0175		unknown function	default	default	0
+Ef-P20-208_CDS_0180	Ef-P20-208	114967:115674:-1	CDS	minor head protein	Ef-P16-208_CDS_0170		head and packaging	default	default	0
+Ef-P20-208_CDS_0181	Ef-P20-208	115703:116143:-1	CDS	replication initiation protein	Ef-P16-208_CDS_0171		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0182	Ef-P20-208	116193:116381:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0178		unknown function	default	default	0
+Ef-P20-208_CDS_0183	Ef-P20-208	116378:116839:-1	CDS	sulfatase-modifying factor enzyme	Ef-P16-208_CDS_0173		other	default	default	0
+Ef-P20-208_CDS_0184	Ef-P20-208	116853:117029:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0174		unknown function	default	default	0
+Ef-P20-208_CDS_0185	Ef-P20-208	117026:117223:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0181		unknown function	default	default	0
+Ef-P20-208_CDS_0186	Ef-P20-208	117220:117660:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0186		unknown function	default	default	0
+Ef-P20-208_CDS_0187	Ef-P20-208	117748:118431:-1	CDS	NinI-like serine-threonine phosphatase	Ef-P10-208_CDS_0183		other	default	default	0
+Ef-P20-208_CDS_0188	Ef-P20-208	118485:118964:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0178		unknown function	default	default	0
+Ef-P20-208_CDS_0189	Ef-P20-208	118968:119219:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0179		unknown function	default	default	0
+Ef-P20-208_CDS_0190	Ef-P20-208	119216:119827:-1	CDS	phosphoesterase	Ef-P10-208_CDS_0186		other	default	default	0
+Ef-P20-208_CDS_0191	Ef-P20-208	119838:120155:-1	CDS	membrane protein	Ef-P20-208_CDS_0191		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P20-208_CDS_0192	Ef-P20-208	120185:120304:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0188		unknown function	default	default	0
+Ef-P20-208_CDS_0193	Ef-P20-208	120385:120798:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0193		unknown function	default	default	0
+Ef-P20-208_CDS_0194	Ef-P20-208	120798:121025:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0185		unknown function	default	default	0
+Ef-P20-208_CDS_0195	Ef-P20-208	121022:121405:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0195		unknown function	default	default	0
+Ef-P20-208_CDS_0196	Ef-P20-208	121407:121595:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0196		unknown function	default	default	0
+Ef-P20-208_CDS_0197	Ef-P20-208	121685:121858:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0193		unknown function	default	default	0
+Ef-P20-208_CDS_0198	Ef-P20-208	121848:122192:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0194		unknown function	default	default	0
+Ef-P20-208_CDS_0199	Ef-P20-208	122192:122446:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0188		unknown function	default	default	0
+Ef-P20-208_CDS_0200	Ef-P20-208	122427:122681:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0189		unknown function	default	default	0
+Ef-P20-208_CDS_0201	Ef-P20-208	122692:123027:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0197		unknown function	default	default	0
+Ef-P20-208_CDS_0202	Ef-P20-208	123002:123439:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0198		unknown function	default	default	0
+Ef-P20-208_CDS_0203	Ef-P20-208	123455:123916:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0199		unknown function	default	default	0
+Ef-P20-208_CDS_0204	Ef-P20-208	123909:124136:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0201		unknown function	default	default	0
+Ef-P20-208_CDS_0205	Ef-P20-208	124124:124555:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0202		unknown function	default	default	0
+Ef-P20-208_CDS_0206	Ef-P20-208	124558:124788:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0203		unknown function	default	default	0
+Ef-P20-208_CDS_0207	Ef-P20-208	124785:125216:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0196		unknown function	default	default	0
+Ef-P20-208_CDS_0208	Ef-P20-208	125220:125372:-1	CDS	hypothetical protein	Ef-P10-208_CDS_0205		unknown function	default	default	0
+Ef-P20-208_CDS_0209	Ef-P20-208	125372:126319:-1	CDS	thymidylate synthase	Ef-P20-208_CDS_0209		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0210	Ef-P20-208	126440:127423:-1	CDS	ribonucleoside diphosphate reductase small subunit	Ef-P20-208_CDS_0210		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0211	Ef-P20-208	127436:129586:-1	CDS	ribonucleoside-diphosphate reductase large subunit	Ef-P20-208_CDS_0211		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0212	Ef-P20-208	129589:129831:-1	CDS	thioredoxin domain	Ef-P20-208_CDS_0212		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0213	Ef-P20-208	129958:130164:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0213		unknown function	default	default	0
+Ef-P20-208_CDS_0214	Ef-P20-208	130230:130535:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0214		unknown function	default	default	0
+Ef-P20-208_CDS_0215	Ef-P20-208	130626:130856:-1	CDS	transcriptional repressor	Ef-P16-208_CDS_0215		transcription regulation	default	default	0
+Ef-P20-208_CDS_0216	Ef-P20-208	130920:131144:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0216		unknown function	default	default	0
+Ef-P20-208_CDS_0217	Ef-P20-208	131228:132319:-1	CDS	ATPase	Ef-P16-208_CDS_0217		other	default	default	0
+Ef-P20-208_CDS_0218	Ef-P20-208	132386:132541:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0218		unknown function	default	default	0
+Ef-P20-208_CDS_0219	Ef-P20-208	133037:133156:1	CDS	hypothetical protein	Ef-P20-208_CDS_0219		unknown function	default	default	0
+Ef-P20-208_CDS_0220	Ef-P20-208	133473:133655:1	CDS	hypothetical protein	Ef-P20-208_CDS_0220		unknown function	default	default	0
+Ef-P20-208_CDS_0221	Ef-P20-208	134213:134308:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0221		unknown function	default	default	0
+Ef-P20-208_CDS_0222	Ef-P20-208	134543:134665:1	CDS	hypothetical protein	Ef-P10-208_CDS_0224		unknown function	default	default	0
+Ef-P20-208_CDS_0223	Ef-P20-208	134638:134856:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0223		unknown function	default	default	0
+Ef-P20-208_CDS_0224	Ef-P20-208	135141:135242:1	CDS	hypothetical protein	Ef-P10-208_CDS_0226		unknown function	default	default	0
+Ef-P20-208_CDS_0225	Ef-P20-208	135199:135321:1	CDS	hypothetical protein	Ef-P10-208_CDS_0227		unknown function	default	default	0
+Ef-P20-208_CDS_0226	Ef-P20-208	135472:135606:-1	CDS	hypothetical protein	Ef-P20-208_CDS_0226		unknown function	default	default	0
+Ef-P20-208_CDS_0227	Ef-P20-208	135637:135792:1	CDS	hypothetical protein	Ef-P10-208_CDS_0228		unknown function	default	default	0
+Ef-P20-208_CDS_0228	Ef-P20-208	135898:136014:1	CDS	hypothetical protein	Ef-P10-208_CDS_0229		unknown function	default	default	0
+Ef-P20-208_CDS_0229	Ef-P20-208	136076:136168:1	CDS	hypothetical protein	Ef-P10-208_CDS_0230		unknown function	default	default	0
+Ef-P20-208_CDS_0230	Ef-P20-208	136281:136619:-1	CDS	virion structural protein	Ef-P16-208_CDS_0232		head and packaging	default	default	0
+Ef-P20-208_CDS_0231	Ef-P20-208	136683:137027:-1	CDS	hemolysin	Ef-P10-208_CDS_0233		other	default	default	0
+Ef-P20-208_CDS_0232	Ef-P20-208	137062:137322:-1	CDS	membrane protein	Ef-P10-208_CDS_0234		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P20-208_CDS_0233	Ef-P20-208	137439:137708:1	CDS	membrane protein	Ef-P10-208_CDS_0235		moron, auxiliary metabolic gene and host takeover	default	default	0
+Ef-P20-208_CDS_0234	Ef-P20-208	137729:138007:1	CDS	hypothetical protein	Ef-P10-208_CDS_0236		unknown function	default	default	0
+Ef-P20-208_CDS_0235	Ef-P20-208	138011:138436:1	CDS	terminase small subunit	Ef-P10-208_CDS_0237		head and packaging	default	default	0

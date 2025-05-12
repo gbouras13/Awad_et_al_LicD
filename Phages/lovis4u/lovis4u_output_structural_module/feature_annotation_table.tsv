@@ -1,0 +1,122 @@
+feature_id	locus_id	coordinates	feature_type	name	group	group_type	category	fill_colour	stroke_colour	show_label
+Ef-P10-208_CDS_0001	Ef-P10-208	34:1506:1	CDS	terminase large subunit	Ef-P16-208_CDS_0001		head and packaging	default	default	0
+Ef-P10-208_CDS_0002	Ef-P10-208	1606:2394:1	CDS	virion structural protein	Ef-P20-208_CDS_0002		head and packaging	default	default	0
+Ef-P10-208_CDS_0003	Ef-P10-208	2499:3215:1	CDS	hypothetical protein	Ef-P20-208_CDS_0003		unknown function	default	default	0
+Ef-P10-208_CDS_0004	Ef-P10-208	3205:3549:1	CDS	hypothetical protein	Ef-P16-208_CDS_0004		unknown function	default	default	0
+Ef-P10-208_CDS_0005	Ef-P10-208	3643:4512:1	CDS	endolysin	Ef-P16-208_CDS_0005		lysis	default	default	0
+Ef-P10-208_CDS_0006	Ef-P10-208	4679:5317:1	CDS	transglycosylase	Ef-P20-208_CDS_0006		other	default	default	0
+Ef-P10-208_CDS_0007	Ef-P10-208	5459:5803:1	CDS	portal protein	Ef-P20-208_CDS_0007		head and packaging	default	default	0
+Ef-P10-208_CDS_0008	Ef-P10-208	5889:5984:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0008		unknown function	default	default	0
+Ef-P10-208_CDS_0009	Ef-P10-208	6013:7542:1	CDS	portal protein	Ef-P16-208_CDS_0009		head and packaging	default	default	0
+Ef-P10-208_CDS_0010	Ef-P10-208	7549:7662:1	CDS	hypothetical protein	Ef-P20-208_CDS_0009		unknown function	default	default	0
+Ef-P10-208_CDS_0011	Ef-P10-208	7634:8440:1	CDS	head maturation protease	Ef-P20-208_CDS_0010		head and packaging	default	default	0
+Ef-P10-208_CDS_0012	Ef-P10-208	8447:9373:1	CDS	hypothetical protein	Ef-P16-208_CDS_0012		unknown function	default	default	0
+Ef-P10-208_CDS_0013	Ef-P10-208	9514:10908:1	CDS	major head protein	Ef-P20-208_CDS_0012		head and packaging	default	default	0
+Ef-P10-208_CDS_0014	Ef-P10-208	11013:11276:1	CDS	hypothetical protein	Ef-P10-208_CDS_0014		unknown function	default	default	0
+Ef-P10-208_CDS_0015	Ef-P10-208	11289:12188:1	CDS	tail fiber protein	Ef-P20-208_CDS_0014		tail	default	default	0
+Ef-P10-208_CDS_0016	Ef-P10-208	12208:13077:1	CDS	virion structural protein	Ef-P20-208_CDS_0015		head and packaging	default	default	0
+Ef-P10-208_CDS_0017	Ef-P10-208	13070:13693:1	CDS	hypothetical protein	Ef-P16-208_CDS_0017		unknown function	default	default	0
+Ef-P10-208_CDS_0018	Ef-P10-208	13697:14542:1	CDS	virion structural protein	Ef-P16-208_CDS_0018		head and packaging	default	default	0
+Ef-P10-208_CDS_0019	Ef-P10-208	14542:14775:1	CDS	hypothetical protein	Ef-P16-208_CDS_0019		unknown function	default	default	0
+Ef-P10-208_CDS_0020	Ef-P10-208	14779:16488:1	CDS	tail sheath	Ef-P10-208_CDS_0020		tail	default	default	0
+Ef-P10-208_CDS_0021	Ef-P10-208	16549:16971:1	CDS	virion structural protein	Ef-P20-208_CDS_0020		head and packaging	default	default	0
+Ef-P10-208_CDS_0022	Ef-P10-208	17095:17931:1	CDS	HNH endonuclease	Ef-P10-208_CDS_0022		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0023	Ef-P10-208	17945:18091:1	CDS	hypothetical protein	Ef-P16-208_CDS_0024		unknown function	default	default	0
+Ef-P10-208_CDS_0024	Ef-P10-208	18227:18700:1	CDS	tail assembly chaperone	Ef-P16-208_CDS_0025		tail	default	default	0
+Ef-P10-208_CDS_0025	Ef-P10-208	18768:19343:1	CDS	RNA polymerase beta subunit	Ef-P10-208_CDS_0025		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P10-208_CDS_0026	Ef-P10-208	19388:23044:1	CDS	tail associated lysin	Ef-P10-208_CDS_0026		tail	default	default	0
+Ef-P10-208_CDS_0027	Ef-P10-208	23083:26268:1	CDS	tail protein with lysin activity	Ef-P10-208_CDS_0027		tail	default	default	0
+Ef-P10-208_CDS_0028	Ef-P10-208	26353:31830:1	CDS	tail fiber protein	Ef-P16-208_CDS_0029		tail	default	default	0
+Ef-P10-208_CDS_0029	Ef-P10-208	31930:34380:1	CDS	tail protein	Ef-P16-208_CDS_0030		tail	default	default	0
+Ef-P10-208_CDS_0030	Ef-P10-208	34374:35102:1	CDS	tail fiber protein	Ef-P10-208_CDS_0032		tail	default	default	0
+Ef-P10-208_CDS_0031	Ef-P10-208	35139:35279:1	CDS	hypothetical protein	Ef-P16-208_CDS_0032		unknown function	default	default	0
+Ef-P10-208_CDS_0032	Ef-P10-208	35360:36064:1	CDS	tail fiber protein	Ef-P10-208_CDS_0032		tail	default	default	0
+Ef-P10-208_CDS_0033	Ef-P10-208	36151:36840:1	CDS	virion structural protein	Ef-P16-208_CDS_0034		head and packaging	default	default	0
+Ef-P10-208_CDS_0034	Ef-P10-208	36844:37380:1	CDS	virion structural protein	Ef-P20-208_CDS_0034		head and packaging	default	default	0
+Ef-P10-208_CDS_0035	Ef-P10-208	37367:38071:1	CDS	baseplate protein	Ef-P16-208_CDS_0036		tail	default	default	0
+Ef-P10-208_CDS_0036	Ef-P10-208	38087:39139:1	CDS	baseplate wedge subunit	Ef-P16-208_CDS_0037		tail	default	default	0
+Ef-P10-208_CDS_0037	Ef-P10-208	39157:42549:1	CDS	baseplate protein	Ef-P10-208_CDS_0037		tail	default	default	0
+Ef-P10-208_CDS_0038	Ef-P10-208	42564:42674:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0039		unknown function	default	default	0
+Ef-P10-208_CDS_0039	Ef-P10-208	42721:43200:1	CDS	virion structural protein	Ef-P20-208_CDS_0039		head and packaging	default	default	0
+Ef-P10-208_CDS_0040	Ef-P10-208	43215:46679:1	CDS	tail fiber protein	Ef-P16-208_CDS_0041		tail	default	default	0
+Ef-P16-208_CDS_0001	Ef-P16-208	34:1506:1	CDS	terminase large subunit	Ef-P16-208_CDS_0001		head and packaging	default	default	0
+Ef-P16-208_CDS_0002	Ef-P16-208	1606:2394:1	CDS	virion structural protein	Ef-P20-208_CDS_0002		head and packaging	default	default	0
+Ef-P16-208_CDS_0003	Ef-P16-208	2499:3215:1	CDS	hypothetical protein	Ef-P20-208_CDS_0003		unknown function	default	default	0
+Ef-P16-208_CDS_0004	Ef-P16-208	3205:3549:1	CDS	hypothetical protein	Ef-P16-208_CDS_0004		unknown function	default	default	0
+Ef-P16-208_CDS_0005	Ef-P16-208	3643:4512:1	CDS	endolysin	Ef-P16-208_CDS_0005		lysis	default	default	0
+Ef-P16-208_CDS_0006	Ef-P16-208	4679:5317:1	CDS	transglycosylase	Ef-P20-208_CDS_0006		other	default	default	0
+Ef-P16-208_CDS_0007	Ef-P16-208	5459:5803:1	CDS	portal protein	Ef-P20-208_CDS_0007		head and packaging	default	default	0
+Ef-P16-208_CDS_0008	Ef-P16-208	5889:5984:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0008		unknown function	default	default	0
+Ef-P16-208_CDS_0009	Ef-P16-208	6013:7542:1	CDS	portal protein	Ef-P16-208_CDS_0009		head and packaging	default	default	0
+Ef-P16-208_CDS_0010	Ef-P16-208	7549:7662:1	CDS	hypothetical protein	Ef-P20-208_CDS_0009		unknown function	default	default	0
+Ef-P16-208_CDS_0011	Ef-P16-208	7637:8440:1	CDS	head maturation protease	Ef-P20-208_CDS_0010		head and packaging	default	default	0
+Ef-P16-208_CDS_0012	Ef-P16-208	8447:9385:1	CDS	hypothetical protein	Ef-P16-208_CDS_0012		unknown function	default	default	0
+Ef-P16-208_CDS_0013	Ef-P16-208	9526:10920:1	CDS	major head protein	Ef-P20-208_CDS_0012		head and packaging	default	default	0
+Ef-P16-208_CDS_0014	Ef-P16-208	11025:11288:1	CDS	hypothetical protein	Ef-P10-208_CDS_0014		unknown function	default	default	0
+Ef-P16-208_CDS_0015	Ef-P16-208	11301:12200:1	CDS	tail fiber protein	Ef-P20-208_CDS_0014		tail	default	default	0
+Ef-P16-208_CDS_0016	Ef-P16-208	12220:13089:1	CDS	virion structural protein	Ef-P20-208_CDS_0015		head and packaging	default	default	0
+Ef-P16-208_CDS_0017	Ef-P16-208	13082:13705:1	CDS	hypothetical protein	Ef-P16-208_CDS_0017		unknown function	default	default	0
+Ef-P16-208_CDS_0018	Ef-P16-208	13709:14554:1	CDS	virion structural protein	Ef-P16-208_CDS_0018		head and packaging	default	default	0
+Ef-P16-208_CDS_0019	Ef-P16-208	14554:14787:1	CDS	hypothetical protein	Ef-P16-208_CDS_0019		unknown function	default	default	0
+Ef-P16-208_CDS_0020	Ef-P16-208	14791:16500:1	CDS	tail sheath	Ef-P10-208_CDS_0020		tail	default	default	0
+Ef-P16-208_CDS_0021	Ef-P16-208	16561:16953:1	CDS	virion structural protein	Ef-P20-208_CDS_0020		head and packaging	default	default	0
+Ef-P16-208_CDS_0022	Ef-P16-208	16971:17135:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0022		unknown function	default	default	0
+Ef-P16-208_CDS_0023	Ef-P16-208	17280:17435:1	CDS	hypothetical protein	Ef-P16-208_CDS_0023		unknown function	default	default	0
+Ef-P16-208_CDS_0024	Ef-P16-208	17461:17607:1	CDS	hypothetical protein	Ef-P16-208_CDS_0024		unknown function	default	default	0
+Ef-P16-208_CDS_0025	Ef-P16-208	17744:18217:1	CDS	tail assembly chaperone	Ef-P16-208_CDS_0025		tail	default	default	0
+Ef-P16-208_CDS_0026	Ef-P16-208	18285:18860:1	CDS	RNA polymerase beta subunit	Ef-P10-208_CDS_0025		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P16-208_CDS_0027	Ef-P16-208	18905:22561:1	CDS	tail associated lysin	Ef-P10-208_CDS_0026		tail	default	default	0
+Ef-P16-208_CDS_0028	Ef-P16-208	22600:25785:1	CDS	tail protein with lysin activity	Ef-P10-208_CDS_0027		tail	default	default	0
+Ef-P16-208_CDS_0029	Ef-P16-208	25851:31349:1	CDS	tail fiber protein	Ef-P16-208_CDS_0029		tail	default	default	0
+Ef-P16-208_CDS_0030	Ef-P16-208	31449:33860:1	CDS	tail protein	Ef-P16-208_CDS_0030		tail	default	default	0
+Ef-P16-208_CDS_0031	Ef-P16-208	33854:34579:1	CDS	tail fiber protein	Ef-P10-208_CDS_0032		tail	default	default	0
+Ef-P16-208_CDS_0032	Ef-P16-208	34611:34757:1	CDS	hypothetical protein	Ef-P16-208_CDS_0032		unknown function	default	default	0
+Ef-P16-208_CDS_0033	Ef-P16-208	34832:34927:1	CDS	hypothetical protein	Ef-P20-208_CDS_0032		unknown function	default	default	0
+Ef-P16-208_CDS_0034	Ef-P16-208	34894:35583:1	CDS	virion structural protein	Ef-P16-208_CDS_0034		head and packaging	default	default	0
+Ef-P16-208_CDS_0035	Ef-P16-208	35587:36123:1	CDS	virion structural protein	Ef-P20-208_CDS_0034		head and packaging	default	default	0
+Ef-P16-208_CDS_0036	Ef-P16-208	36110:36814:1	CDS	baseplate protein	Ef-P16-208_CDS_0036		tail	default	default	0
+Ef-P16-208_CDS_0037	Ef-P16-208	36830:37882:1	CDS	baseplate wedge subunit	Ef-P16-208_CDS_0037		tail	default	default	0
+Ef-P16-208_CDS_0038	Ef-P16-208	37900:40311:1	CDS	baseplate protein	Ef-P16-208_CDS_0038		tail	default	default	0
+Ef-P16-208_CDS_0039	Ef-P16-208	40326:40436:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0039		unknown function	default	default	0
+Ef-P16-208_CDS_0040	Ef-P16-208	40483:40962:1	CDS	virion structural protein	Ef-P20-208_CDS_0039		head and packaging	default	default	0
+Ef-P16-208_CDS_0041	Ef-P16-208	40977:44441:1	CDS	tail fiber protein	Ef-P16-208_CDS_0041		tail	default	default	0
+Ef-P20-208_CDS_0001	Ef-P20-208	1:1836:1	CDS	terminase large subunit	Ef-P16-208_CDS_0001		head and packaging	default	default	0
+Ef-P20-208_CDS_0002	Ef-P20-208	1936:2724:1	CDS	virion structural protein	Ef-P20-208_CDS_0002		head and packaging	default	default	0
+Ef-P20-208_CDS_0003	Ef-P20-208	2829:3545:1	CDS	hypothetical protein	Ef-P20-208_CDS_0003		unknown function	default	default	0
+Ef-P20-208_CDS_0004	Ef-P20-208	3535:3879:1	CDS	hypothetical protein	Ef-P16-208_CDS_0004		unknown function	default	default	0
+Ef-P20-208_CDS_0005	Ef-P20-208	3973:4842:1	CDS	endolysin	Ef-P16-208_CDS_0005		lysis	default	default	0
+Ef-P20-208_CDS_0006	Ef-P20-208	5009:5647:1	CDS	transglycosylase	Ef-P20-208_CDS_0006		other	default	default	0
+Ef-P20-208_CDS_0007	Ef-P20-208	5789:6133:1	CDS	portal protein	Ef-P20-208_CDS_0007		head and packaging	default	default	0
+Ef-P20-208_CDS_0008	Ef-P20-208	6211:7872:1	CDS	portal protein	Ef-P16-208_CDS_0009		head and packaging	default	default	0
+Ef-P20-208_CDS_0009	Ef-P20-208	7879:7992:1	CDS	hypothetical protein	Ef-P20-208_CDS_0009		unknown function	default	default	0
+Ef-P20-208_CDS_0010	Ef-P20-208	7964:8770:1	CDS	head maturation protease	Ef-P20-208_CDS_0010		head and packaging	default	default	0
+Ef-P20-208_CDS_0011	Ef-P20-208	8777:9712:1	CDS	hypothetical protein	Ef-P16-208_CDS_0012		unknown function	default	default	0
+Ef-P20-208_CDS_0012	Ef-P20-208	9853:11247:1	CDS	major head protein	Ef-P20-208_CDS_0012		head and packaging	default	default	0
+Ef-P20-208_CDS_0013	Ef-P20-208	11352:11609:1	CDS	hypothetical protein	Ef-P10-208_CDS_0014		unknown function	default	default	0
+Ef-P20-208_CDS_0014	Ef-P20-208	11622:12521:1	CDS	tail fiber protein	Ef-P20-208_CDS_0014		tail	default	default	0
+Ef-P20-208_CDS_0015	Ef-P20-208	12540:13409:1	CDS	virion structural protein	Ef-P20-208_CDS_0015		head and packaging	default	default	0
+Ef-P20-208_CDS_0016	Ef-P20-208	13402:14025:1	CDS	hypothetical protein	Ef-P16-208_CDS_0017		unknown function	default	default	0
+Ef-P20-208_CDS_0017	Ef-P20-208	14029:14874:1	CDS	virion structural protein	Ef-P16-208_CDS_0018		head and packaging	default	default	0
+Ef-P20-208_CDS_0018	Ef-P20-208	14874:15107:1	CDS	hypothetical protein	Ef-P16-208_CDS_0019		unknown function	default	default	0
+Ef-P20-208_CDS_0019	Ef-P20-208	15111:16820:1	CDS	tail sheath	Ef-P10-208_CDS_0020		tail	default	default	0
+Ef-P20-208_CDS_0020	Ef-P20-208	16881:17303:1	CDS	virion structural protein	Ef-P20-208_CDS_0020		head and packaging	default	default	0
+Ef-P20-208_CDS_0021	Ef-P20-208	17427:18263:1	CDS	HNH endonuclease	Ef-P10-208_CDS_0022		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0022	Ef-P20-208	18277:18423:1	CDS	hypothetical protein	Ef-P16-208_CDS_0024		unknown function	default	default	0
+Ef-P20-208_CDS_0023	Ef-P20-208	18560:19033:1	CDS	tail assembly chaperone	Ef-P16-208_CDS_0025		tail	default	default	0
+Ef-P20-208_CDS_0024	Ef-P20-208	19101:19676:1	CDS	RNA polymerase beta subunit	Ef-P10-208_CDS_0025		DNA, RNA and nucleotide metabolism	default	default	0
+Ef-P20-208_CDS_0025	Ef-P20-208	19721:23377:1	CDS	tail associated lysin	Ef-P10-208_CDS_0026		tail	default	default	0
+Ef-P20-208_CDS_0026	Ef-P20-208	23416:26601:1	CDS	tail protein with lysin activity	Ef-P10-208_CDS_0027		tail	default	default	0
+Ef-P20-208_CDS_0027	Ef-P20-208	26664:32162:1	CDS	tail fiber protein	Ef-P16-208_CDS_0029		tail	default	default	0
+Ef-P20-208_CDS_0028	Ef-P20-208	32262:32672:1	CDS	tail protein	Ef-P20-208_CDS_0028		tail	default	default	0
+Ef-P20-208_CDS_0029	Ef-P20-208	32817:34490:1	CDS	tail protein	Ef-P20-208_CDS_0029		tail	default	default	0
+Ef-P20-208_CDS_0030	Ef-P20-208	34484:35209:1	CDS	tail fiber protein	Ef-P10-208_CDS_0032		tail	default	default	0
+Ef-P20-208_CDS_0031	Ef-P20-208	35241:35387:1	CDS	hypothetical protein	Ef-P16-208_CDS_0032		unknown function	default	default	0
+Ef-P20-208_CDS_0032	Ef-P20-208	35462:35557:1	CDS	hypothetical protein	Ef-P20-208_CDS_0032		unknown function	default	default	0
+Ef-P20-208_CDS_0033	Ef-P20-208	35524:36213:1	CDS	virion structural protein	Ef-P16-208_CDS_0034		head and packaging	default	default	0
+Ef-P20-208_CDS_0034	Ef-P20-208	36217:36753:1	CDS	virion structural protein	Ef-P20-208_CDS_0034		head and packaging	default	default	0
+Ef-P20-208_CDS_0035	Ef-P20-208	36740:37444:1	CDS	baseplate protein	Ef-P16-208_CDS_0036		tail	default	default	0
+Ef-P20-208_CDS_0036	Ef-P20-208	37460:38512:1	CDS	baseplate wedge subunit	Ef-P16-208_CDS_0037		tail	default	default	0
+Ef-P20-208_CDS_0037	Ef-P20-208	38531:39931:1	CDS	baseplate protein	Ef-P20-208_CDS_0037		tail	default	default	0
+Ef-P20-208_CDS_0038	Ef-P20-208	39928:40056:-1	CDS	hypothetical protein	Ef-P16-208_CDS_0039		unknown function	default	default	0
+Ef-P20-208_CDS_0039	Ef-P20-208	40103:40582:1	CDS	virion structural protein	Ef-P20-208_CDS_0039		head and packaging	default	default	0
+Ef-P20-208_CDS_0040	Ef-P20-208	40597:44061:1	CDS	virion structural protein	Ef-P16-208_CDS_0041		head and packaging	default	default	0

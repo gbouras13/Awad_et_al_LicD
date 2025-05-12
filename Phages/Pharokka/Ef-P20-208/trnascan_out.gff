@@ -1,0 +1,15 @@
+##gff-version 3
+Ef-P20-208	tRNAscan-SE	pseudogene	132356	132437	34.2	-	.	ID=Ef-P20-208.trna7;Name=Ef-P20-208.tRNA7-TyrGTA;isotype=Tyr;anticodon=GTA;gene_biotype=pseudogene;
+Ef-P20-208	tRNAscan-SE	exon	132356	132437	.	-	.	ID=Ef-P20-208.trna7.exon1;Parent=Ef-P20-208.trna7;
+Ef-P20-208	tRNAscan-SE	tRNA	132690	132763	74.7	-	.	ID=Ef-P20-208.trna6;Name=Ef-P20-208.tRNA6-MetCAT;isotype=Met;anticodon=CAT;gene_biotype=tRNA;
+Ef-P20-208	tRNAscan-SE	exon	132690	132763	.	-	.	ID=Ef-P20-208.trna6.exon1;Parent=Ef-P20-208.trna6;
+Ef-P20-208	tRNAscan-SE	tRNA	132822	132895	64.2	-	.	ID=Ef-P20-208.trna5;Name=Ef-P20-208.tRNA5-ProTGG;isotype=Pro;anticodon=TGG;gene_biotype=tRNA;
+Ef-P20-208	tRNAscan-SE	exon	132822	132895	.	-	.	ID=Ef-P20-208.trna5.exon1;Parent=Ef-P20-208.trna5;
+Ef-P20-208	tRNAscan-SE	tRNA	133038	133122	51.8	-	.	ID=Ef-P20-208.trna4;Name=Ef-P20-208.tRNA4-LeuTAG;isotype=Leu;anticodon=TAG;gene_biotype=tRNA;
+Ef-P20-208	tRNAscan-SE	exon	133038	133122	.	-	.	ID=Ef-P20-208.trna4.exon1;Parent=Ef-P20-208.trna4;
+Ef-P20-208	tRNAscan-SE	tRNA	133846	133919	70.9	-	.	ID=Ef-P20-208.trna3;Name=Ef-P20-208.tRNA3-ArgTCT;isotype=Arg;anticodon=TCT;gene_biotype=tRNA;
+Ef-P20-208	tRNAscan-SE	exon	133846	133919	.	-	.	ID=Ef-P20-208.trna3.exon1;Parent=Ef-P20-208.trna3;
+Ef-P20-208	tRNAscan-SE	tRNA	134402	134473	52.0	-	.	ID=Ef-P20-208.trna2;Name=Ef-P20-208.tRNA2-TrpCCA;isotype=Trp;anticodon=CCA;gene_biotype=tRNA;
+Ef-P20-208	tRNAscan-SE	exon	134402	134473	.	-	.	ID=Ef-P20-208.trna2.exon1;Parent=Ef-P20-208.trna2;
+Ef-P20-208	tRNAscan-SE	tRNA	134730	134802	37.4	-	.	ID=Ef-P20-208.trna1;Name=Ef-P20-208.tRNA1-AspGTC;isotype=Asp;anticodon=GTC;gene_biotype=tRNA;
+Ef-P20-208	tRNAscan-SE	exon	134730	134802	.	-	.	ID=Ef-P20-208.trna1.exon1;Parent=Ef-P20-208.trna1;

@@ -1,0 +1,11 @@
+Status: Running Infernal analysis
+Sequence   		tRNA  	Bounds	tRNA	Anti	Intron Bounds	Inf	      
+Name       	tRNA #	Begin 	End   	Type	Codon	Begin	End	Score	Note
+--------   	------	----- 	------	----	-----	-----	----	------	------
+Ef-P20-208 	1	134802	134730	Asp	GTC	0	0	37.4	
+Ef-P20-208 	2	134473	134402	Trp	CCA	0	0	52.0	
+Ef-P20-208 	3	133919	133846	Arg	TCT	0	0	70.9	
+Ef-P20-208 	4	133122	133038	Leu	TAG	0	0	51.8	
+Ef-P20-208 	5	132895	132822	Pro	TGG	0	0	64.2	
+Ef-P20-208 	6	132763	132690	Met	CAT	0	0	74.7	
+Ef-P20-208 	7	132437	132356	Tyr	GTA	0	0	34.2	pseudo

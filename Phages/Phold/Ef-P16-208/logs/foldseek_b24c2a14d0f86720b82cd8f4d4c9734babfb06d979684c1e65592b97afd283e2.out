@@ -1,0 +1,14 @@
+createtsv Phold/Ef-P16-208/foldseek_db/Ef-P16-208 ../phold_db_v_0_2_0/all_phold_structures Phold/Ef-P16-208/result_db/result_db Phold/Ef-P16-208/foldseek_results.tsv 
+
+MMseqs Version:                 	9.427df8a
+First sequence as representative	false
+Target column                   	1
+Add full header                 	false
+Sequence source                 	0
+Database output                 	false
+Threads                         	32
+Compressed                      	0
+Verbosity                       	3
+
+Time for merging to foldseek_results.tsv: 0h 0m 0s 7ms
+Time for processing: 0h 0m 0s 174ms

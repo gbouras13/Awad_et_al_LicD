@@ -1,0 +1,1 @@
+Command line: foldseek search Phold/Ef-P16-208/foldseek_db/Ef-P16-208 ../phold_db_v_0_2_0/all_phold_structures_clustered_searchDB Phold/Ef-P16-208/result_db/result_db Phold/Ef-P16-208/temp_db --threads 32 -e 0.001 -s 9.5 --max-seqs 10000 --cluster-search 1

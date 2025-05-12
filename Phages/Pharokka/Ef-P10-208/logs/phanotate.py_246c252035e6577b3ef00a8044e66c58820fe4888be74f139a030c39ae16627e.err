@@ -1,0 +1,1 @@
+Command line: phanotate.py -f fasta -o Pharokka/Ef-P10-208/phanotate_out_tmp.fasta Fastas/Ef-P10-208.fasta

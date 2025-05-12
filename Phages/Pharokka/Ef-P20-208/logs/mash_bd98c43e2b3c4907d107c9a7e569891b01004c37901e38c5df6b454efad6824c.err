@@ -1,0 +1,1 @@
+Command line: mash dist Pharokka/Ef-P20-208/input_mash_sketch.msh ../pharokka_db/1Aug2023_genomes.fa.msh -d 0.2 -i

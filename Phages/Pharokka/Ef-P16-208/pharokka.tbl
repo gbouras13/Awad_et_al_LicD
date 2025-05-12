@@ -1,0 +1,995 @@
+>Feature Ef-P16-208
+34	1506	CDS
+			product	terminase large subunit
+			locus_tag	Ef-P16-208_CDS_0001
+			transl_table	11
+1606	2394	CDS
+			product	virion structural protein
+			locus_tag	Ef-P16-208_CDS_0002
+			transl_table	11
+2499	3215	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0003
+			transl_table	11
+3205	3549	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0004
+			transl_table	11
+3643	4512	CDS
+			product	endolysin
+			locus_tag	Ef-P16-208_CDS_0005
+			transl_table	11
+4679	5317	CDS
+			product	transglycosylase
+			locus_tag	Ef-P16-208_CDS_0006
+			transl_table	11
+5459	5803	CDS
+			product	portal protein
+			locus_tag	Ef-P16-208_CDS_0007
+			transl_table	11
+5984	5889	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0008
+			transl_table	11
+6013	7542	CDS
+			product	portal protein
+			locus_tag	Ef-P16-208_CDS_0009
+			transl_table	11
+7549	7662	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0010
+			transl_table	11
+7637	8440	CDS
+			product	head maturation protease
+			locus_tag	Ef-P16-208_CDS_0011
+			transl_table	11
+8447	9385	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0012
+			transl_table	11
+9526	10920	CDS
+			product	major head protein
+			locus_tag	Ef-P16-208_CDS_0013
+			transl_table	11
+11025	11288	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0014
+			transl_table	11
+11301	12200	CDS
+			product	tail fiber protein
+			locus_tag	Ef-P16-208_CDS_0015
+			transl_table	11
+12220	13089	CDS
+			product	virion structural protein
+			locus_tag	Ef-P16-208_CDS_0016
+			transl_table	11
+13082	13705	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0017
+			transl_table	11
+13709	14554	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0018
+			transl_table	11
+14554	14787	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0019
+			transl_table	11
+14791	16500	CDS
+			product	tail sheath
+			locus_tag	Ef-P16-208_CDS_0020
+			transl_table	11
+16561	16953	CDS
+			product	virion structural protein
+			locus_tag	Ef-P16-208_CDS_0021
+			transl_table	11
+17135	16971	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0022
+			transl_table	11
+17280	17435	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0023
+			transl_table	11
+17461	17607	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0024
+			transl_table	11
+17744	18217	CDS
+			product	tail assembly chaperone
+			locus_tag	Ef-P16-208_CDS_0025
+			transl_table	11
+18285	18860	CDS
+			product	RNA polymerase beta subunit
+			locus_tag	Ef-P16-208_CDS_0026
+			transl_table	11
+18905	22561	CDS
+			product	tail associated lysin
+			locus_tag	Ef-P16-208_CDS_0027
+			transl_table	11
+22600	25785	CDS
+			product	tail protein with lysin activity
+			locus_tag	Ef-P16-208_CDS_0028
+			transl_table	11
+25851	31349	CDS
+			product	tail fiber protein
+			locus_tag	Ef-P16-208_CDS_0029
+			transl_table	11
+31449	33860	CDS
+			product	tail protein
+			locus_tag	Ef-P16-208_CDS_0030
+			transl_table	11
+33854	34579	CDS
+			product	tail fiber protein
+			locus_tag	Ef-P16-208_CDS_0031
+			transl_table	11
+34611	34757	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0032
+			transl_table	11
+34832	34927	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0033
+			transl_table	11
+34894	35583	CDS
+			product	virion structural protein
+			locus_tag	Ef-P16-208_CDS_0034
+			transl_table	11
+35587	36123	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0035
+			transl_table	11
+36110	36814	CDS
+			product	baseplate protein
+			locus_tag	Ef-P16-208_CDS_0036
+			transl_table	11
+36830	37882	CDS
+			product	baseplate wedge subunit
+			locus_tag	Ef-P16-208_CDS_0037
+			transl_table	11
+37900	40311	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0038
+			transl_table	11
+40436	40326	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0039
+			transl_table	11
+40483	40962	CDS
+			product	virion structural protein
+			locus_tag	Ef-P16-208_CDS_0040
+			transl_table	11
+40977	44441	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0041
+			transl_table	11
+44520	44726	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0042
+			transl_table	11
+44981	48025	CDS
+			product	DNA helicase
+			locus_tag	Ef-P16-208_CDS_0043
+			transl_table	11
+48053	49681	CDS
+			product	HTH DNA binding protein
+			locus_tag	Ef-P16-208_CDS_0044
+			transl_table	11
+49714	52248	CDS
+			product	DnaB-like replicative helicase
+			locus_tag	Ef-P16-208_CDS_0045
+			transl_table	11
+52248	53303	CDS
+			product	SbcD-like subunit of palindrome specific endonuclease
+			locus_tag	Ef-P16-208_CDS_0046
+			transl_table	11
+53419	55311	CDS
+			product	SbcC-like subunit of palindrome specific endonuclease
+			locus_tag	Ef-P16-208_CDS_0047
+			transl_table	11
+55320	55985	CDS
+			product	anti-sigma factor
+			locus_tag	Ef-P16-208_CDS_0048
+			transl_table	11
+55986	57044	CDS
+			product	DNA primase
+			locus_tag	Ef-P16-208_CDS_0049
+			transl_table	11
+57063	57695	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0050
+			transl_table	11
+57724	58608	CDS
+			product	dUTPase
+			locus_tag	Ef-P16-208_CDS_0051
+			transl_table	11
+58611	58841	CDS
+			product	dUTPase
+			locus_tag	Ef-P16-208_CDS_0052
+			transl_table	11
+58843	59151	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0053
+			transl_table	11
+59138	59449	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0054
+			transl_table	11
+59442	59813	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0055
+			transl_table	11
+59833	60501	CDS
+			product	RusA-like Holliday junction resolvase
+			locus_tag	Ef-P16-208_CDS_0056
+			transl_table	11
+60503	60802	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0057
+			transl_table	11
+60808	61287	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0058
+			transl_table	11
+61380	62174	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0059
+			transl_table	11
+62167	62478	CDS
+			product	DNA binding protein
+			locus_tag	Ef-P16-208_CDS_0060
+			transl_table	11
+62568	64958	CDS
+			product	DNA polymerase
+			locus_tag	Ef-P16-208_CDS_0061
+			transl_table	11
+65229	65131	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0062
+			transl_table	11
+65194	65298	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0063
+			transl_table	11
+65533	65444	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0064
+			transl_table	11
+65658	65554	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0065
+			transl_table	11
+65633	66112	CDS
+			product	DNA polymerase
+			locus_tag	Ef-P16-208_CDS_0066
+			transl_table	11
+66215	66757	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0067
+			transl_table	11
+66814	68103	CDS
+			product	single strand DNA binding protein
+			locus_tag	Ef-P16-208_CDS_0068
+			transl_table	11
+68188	69435	CDS
+			product	UvsX-like recombinase
+			locus_tag	Ef-P16-208_CDS_0069
+			transl_table	11
+69561	69875	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0070
+			transl_table	11
+69868	70482	CDS
+			product	RNA polymerase sigma factor
+			locus_tag	Ef-P16-208_CDS_0071
+			transl_table	11
+70543	70818	CDS
+			product	holin
+			locus_tag	Ef-P16-208_CDS_0072
+			transl_table	11
+70866	71828	CDS
+			product	structural protein with Ig domain
+			locus_tag	Ef-P16-208_CDS_0073
+			transl_table	11
+71849	72292	CDS
+			product	Ig domain containing protein
+			locus_tag	Ef-P16-208_CDS_0074
+			transl_table	11
+72399	72704	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0075
+			transl_table	11
+72701	73654	CDS
+			product	exopolyphosphatase
+			locus_tag	Ef-P16-208_CDS_0076
+			transl_table	11
+73708	74991	CDS
+			product	exonuclease
+			locus_tag	Ef-P16-208_CDS_0077
+			transl_table	11
+75003	75377	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0078
+			transl_table	11
+75416	76036	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0079
+			transl_table	11
+76036	76776	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0080
+			transl_table	11
+76766	77272	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0081
+			transl_table	11
+77286	77636	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0082
+			transl_table	11
+77661	78518	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0083
+			transl_table	11
+78622	79467	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0084
+			transl_table	11
+79460	81088	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0085
+			transl_table	11
+81262	81360	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0086
+			transl_table	11
+81407	82096	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0087
+			transl_table	11
+82107	82574	CDS
+			product	virion structural protein
+			locus_tag	Ef-P16-208_CDS_0088
+			transl_table	11
+82672	84954	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0089
+			transl_table	11
+85044	85220	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0090
+			transl_table	11
+85240	85746	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0091
+			transl_table	11
+85820	85990	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0092
+			transl_table	11
+85980	86252	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0093
+			transl_table	11
+86360	86611	CDS
+			product	transcriptional repressor
+			locus_tag	Ef-P16-208_CDS_0094
+			transl_table	11
+86623	86910	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0095
+			transl_table	11
+86913	87701	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0096
+			transl_table	11
+87783	88856	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0097
+			transl_table	11
+88983	89285	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0098
+			transl_table	11
+89287	89589	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0099
+			transl_table	11
+89592	89885	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0100
+			transl_table	11
+89882	90061	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0101
+			transl_table	11
+90074	90439	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0102
+			transl_table	11
+90466	90843	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0103
+			transl_table	11
+90836	91066	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0104
+			transl_table	11
+91070	91444	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0105
+			transl_table	11
+91441	91698	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0106
+			transl_table	11
+91737	92297	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0107
+			transl_table	11
+92339	93235	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0108
+			transl_table	11
+93236	93865	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0109
+			transl_table	11
+94008	93892	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0110
+			transl_table	11
+94028	94186	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0111
+			transl_table	11
+94201	94344	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0112
+			transl_table	11
+94357	94551	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0113
+			transl_table	11
+94567	95217	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0114
+			transl_table	11
+95230	95673	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0115
+			transl_table	11
+95820	96266	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0116
+			transl_table	11
+96562	96431	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0117
+			transl_table	11
+96635	96934	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0118
+			transl_table	11
+97006	97335	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0119
+			transl_table	11
+97432	97572	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0120
+			transl_table	11
+97631	97837	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0121
+			transl_table	11
+97914	98162	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0122
+			transl_table	11
+98240	98485	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0123
+			transl_table	11
+98552	98782	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0124
+			transl_table	11
+98833	99039	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0125
+			transl_table	11
+99058	99228	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0126
+			transl_table	11
+99364	99669	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0127
+			transl_table	11
+99775	100206	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0128
+			transl_table	11
+100365	100577	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0129
+			transl_table	11
+100574	100879	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0130
+			transl_table	11
+100867	100968	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0131
+			transl_table	11
+100981	101340	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0132
+			transl_table	11
+101345	101446	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0133
+			transl_table	11
+102396	102292	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0134
+			transl_table	11
+102388	102660	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0135
+			transl_table	11
+102694	103005	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0136
+			transl_table	11
+103077	103301	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0137
+			transl_table	11
+103400	104095	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0138
+			transl_table	11
+104233	104406	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0139
+			transl_table	11
+104428	104703	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0140
+			transl_table	11
+104743	104856	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0141
+			transl_table	11
+104937	105203	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0142
+			transl_table	11
+105222	105389	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0143
+			transl_table	11
+105787	105467	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0144
+			transl_table	11
+106152	105841	CDS
+			product	membrane protein
+			locus_tag	Ef-P16-208_CDS_0145
+			transl_table	11
+106286	106191	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0146
+			transl_table	11
+106980	106258	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0147
+			transl_table	11
+107246	106977	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0148
+			transl_table	11
+107552	107247	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0149
+			transl_table	11
+107522	107626	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0150
+			transl_table	11
+107939	107775	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0151
+			transl_table	11
+108234	108010	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0152
+			transl_table	11
+108499	108248	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0153
+			transl_table	11
+108880	108500	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0154
+			transl_table	11
+109059	108901	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0155
+			transl_table	11
+109314	109117	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0156
+			transl_table	11
+109829	109314	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0157
+			transl_table	11
+110090	109842	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0158
+			transl_table	11
+110627	110103	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0159
+			transl_table	11
+111020	110628	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0160
+			transl_table	11
+111372	111013	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0161
+			transl_table	11
+111546	111376	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0162
+			transl_table	11
+112076	111534	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0163
+			transl_table	11
+112543	112079	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0164
+			transl_table	11
+112644	112540	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0165
+			transl_table	11
+113122	112757	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0166
+			transl_table	11
+113298	113119	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0167
+			transl_table	11
+113830	113312	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0168
+			transl_table	11
+114304	113831	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0169
+			transl_table	11
+115011	114301	CDS
+			product	minor head protein
+			locus_tag	Ef-P16-208_CDS_0170
+			transl_table	11
+115477	115037	CDS
+			product	replication initiation protein
+			locus_tag	Ef-P16-208_CDS_0171
+			transl_table	11
+115715	115527	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0172
+			transl_table	11
+116173	115712	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0173
+			transl_table	11
+116363	116187	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0174
+			transl_table	11
+116557	116360	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0175
+			transl_table	11
+116991	116554	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0176
+			transl_table	11
+117766	117083	CDS
+			product	phosphoesterase
+			locus_tag	Ef-P16-208_CDS_0177
+			transl_table	11
+118299	117820	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0178
+			transl_table	11
+118554	118303	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0179
+			transl_table	11
+119162	118551	CDS
+			product	phosphoesterase
+			locus_tag	Ef-P16-208_CDS_0180
+			transl_table	11
+119490	119173	CDS
+			product	membrane protein
+			locus_tag	Ef-P16-208_CDS_0181
+			transl_table	11
+119642	119520	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0182
+			transl_table	11
+120133	119723	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0183
+			transl_table	11
+120534	120157	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0184
+			transl_table	11
+120759	120547	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0185
+			transl_table	11
+121021	120848	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0186
+			transl_table	11
+121355	121011	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0187
+			transl_table	11
+121609	121355	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0188
+			transl_table	11
+121844	121590	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0189
+			transl_table	11
+122190	121855	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0190
+			transl_table	11
+122602	122165	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0191
+			transl_table	11
+123079	122618	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0192
+			transl_table	11
+123299	123072	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0193
+			transl_table	11
+123718	123287	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0194
+			transl_table	11
+123951	123721	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0195
+			transl_table	11
+124379	123948	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0196
+			transl_table	11
+124536	124384	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0197
+			transl_table	11
+125993	124536	CDS
+			product	thymidylate synthase
+			locus_tag	Ef-P16-208_CDS_0198
+			transl_table	11
+126429	126043	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0199
+			transl_table	11
+126670	126521	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0200
+			transl_table	11
+127527	126670	CDS
+			product	lipoprotein
+			locus_tag	Ef-P16-208_CDS_0201
+			transl_table	11
+128018	127689	CDS
+			product	ribonucleoside-diphosphate reductase beta subunit
+			locus_tag	Ef-P16-208_CDS_0202
+			transl_table	11
+128243	128097	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0203
+			transl_table	11
+129015	128386	CDS
+			product	HNH endonuclease
+			locus_tag	Ef-P16-208_CDS_0204
+			transl_table	11
+129717	129130	CDS
+			product	ribonucleotide reductase class Ia beta subunit
+			locus_tag	Ef-P16-208_CDS_0205
+			transl_table	11
+130098	129730	CDS
+			product	ribonucleotide reductase
+			locus_tag	Ef-P16-208_CDS_0206
+			transl_table	11
+131004	130219	CDS
+			product	HNH endonuclease
+			locus_tag	Ef-P16-208_CDS_0207
+			transl_table	11
+131096	131185	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0208
+			transl_table	11
+132477	131323	CDS
+			product	ribonucleoside-diphosphate reductase large subunit
+			locus_tag	Ef-P16-208_CDS_0209
+			transl_table	11
+133148	132630	CDS
+			product	HNH endonuclease
+			locus_tag	Ef-P16-208_CDS_0210
+			transl_table	11
+133880	133290	CDS
+			product	ribonucleotide reductase large subunit
+			locus_tag	Ef-P16-208_CDS_0211
+			transl_table	11
+134125	133883	CDS
+			product	thioredoxin domain
+			locus_tag	Ef-P16-208_CDS_0212
+			transl_table	11
+134458	134252	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0213
+			transl_table	11
+134829	134524	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0214
+			transl_table	11
+135150	134920	CDS
+			product	transcriptional repressor
+			locus_tag	Ef-P16-208_CDS_0215
+			transl_table	11
+135438	135214	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0216
+			transl_table	11
+136611	135520	CDS
+			product	ATPase
+			locus_tag	Ef-P16-208_CDS_0217
+			transl_table	11
+136833	136678	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0218
+			transl_table	11
+137243	137142	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0219
+			transl_table	11
+137637	137371	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0220
+			transl_table	11
+137995	137849	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0221
+			transl_table	11
+138000	138107	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0222
+			transl_table	11
+138172	138294	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0223
+			transl_table	11
+138770	138898	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0224
+			transl_table	11
+139181	139303	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0225
+			transl_table	11
+139393	139503	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0226
+			transl_table	11
+139782	139883	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0227
+			transl_table	11
+139840	139962	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0228
+			transl_table	11
+140279	140434	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0229
+			transl_table	11
+140542	140658	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0230
+			transl_table	11
+140712	140804	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0231
+			transl_table	11
+141258	140920	CDS
+			product	virion structural protein
+			locus_tag	Ef-P16-208_CDS_0232
+			transl_table	11
+141666	141322	CDS
+			product	hemolysin
+			locus_tag	Ef-P16-208_CDS_0233
+			transl_table	11
+141961	141701	CDS
+			product	membrane protein
+			locus_tag	Ef-P16-208_CDS_0234
+			transl_table	11
+142078	142347	CDS
+			product	membrane protein
+			locus_tag	Ef-P16-208_CDS_0235
+			transl_table	11
+142368	142646	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0236
+			transl_table	11
+142650	143078	CDS
+			product	terminase small subunit
+			locus_tag	Ef-P16-208_CDS_0237
+			transl_table	11
+143078	143281	CDS
+			product	terminase large subunit
+			locus_tag	Ef-P16-208_CDS_0238
+			transl_table	11
+143347	143240	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0239
+			transl_table	11
+143574	143461	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0240
+			transl_table	11
+143537	144502	CDS
+			product	HNH endonuclease
+			locus_tag	Ef-P16-208_CDS_0241
+			transl_table	11
+144628	144479	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0242
+			transl_table	11
+144665	144784	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0243
+			transl_table	11
+145038	144892	CDS
+			product	hypothetical protein
+			locus_tag	Ef-P16-208_CDS_0244
+			transl_table	11
+136729	136648	pseudogene
+			product	tRNA-Tyr(GTA)
+			locus_tag	Ef-P16-208_tRNA_0001
+137055	136982	tRNA
+			product	tRNA-Met(CAT)
+			locus_tag	Ef-P16-208_tRNA_0002
+137762	137678	tRNA
+			product	tRNA-Leu(TAG)
+			locus_tag	Ef-P16-208_tRNA_0003
+138558	138485	tRNA
+			product	tRNA-Arg(TCT)
+			locus_tag	Ef-P16-208_tRNA_0004
+139115	139044	tRNA
+			product	tRNA-Trp(CCA)
+			locus_tag	Ef-P16-208_tRNA_0005
+139440	139368	tRNA
+			product	tRNA-Asp(GTC)
+			locus_tag	Ef-P16-208_tRNA_0006

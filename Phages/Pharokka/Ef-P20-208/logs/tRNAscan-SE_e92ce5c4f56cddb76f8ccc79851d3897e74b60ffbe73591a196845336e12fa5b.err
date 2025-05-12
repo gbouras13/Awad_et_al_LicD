@@ -1,0 +1,20 @@
+
+tRNAscan-SE v.2.0.12 (Nov 2022) - scan sequences for transfer RNAs
+Copyright (C) 2022 Patricia Chan and Todd Lowe
+                   University of California Santa Cruz
+Freely distributed under the GNU General Public License (GPLv3)
+
+------------------------------------------------------------
+Sequence file(s) to search:        Fastas/Ef-P20-208.fasta
+Search Mode:                       General
+Results written to:                Standard output
+Output format:                     Tabular
+Searching with:                    Infernal single-pass scan
+                                   Fast mode
+Covariance model:                  /home/user/miniforge3/envs/pharokka1.7.3/lib/tRNAscan-SE/models/TRNAinf.cm
+
+Temporary directory:               /tmp
+tRNA predictions saved to:         Pharokka/Ef-P20-208/trnascan_out.gff
+------------------------------------------------------------
+
+Command line: tRNAscan-SE --thread 23 -G -Q -j Pharokka/Ef-P20-208/trnascan_out.gff Fastas/Ef-P20-208.fasta
