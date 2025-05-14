@@ -1,7 +1,11 @@
 # Awad_et_al_LicD
 Repository to hold scripts for Awad et al 
 
-This repository holds the code commands to reproduce the bioinformatics analyses in Awad et al. It is not intended to be fully one-click end-to-end reproducible (I lack the time for that) but should be pretty straightforward to follow for users with some knowledge of git, bash and conda. Please make an issue if anything is unclear or if you have questions.
+This repository holds the code commands to reproduce the bioinformatics analyses in Awad et al "LicD-Mediated Cell Wall Decoration Governs Phage Sensitivity in _Enterococcus faecalis_ Clinical Isolates". 
+
+You can read the preprint on bioRxiv at [this link](https://www.biorxiv.org/content/10.1101/2025.05.13.653012v1).
+
+It is not intended to be fully one-click end-to-end reproducible (I lack the time for that) but should be pretty straightforward to follow for users with some knowledge of git, bash and conda. Please make an issue if anything is unclear or if you have questions.
 
 All software was installed with conda using the bioconda Linux installation with version mentioned unless otherwise specificed. 
 
