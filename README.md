@@ -110,6 +110,109 @@ done
 mob_typer --multi --infile  ef_isolate_genomes/plasmids/all_plasmids_combined.fasta --out_file mobtyper/sample_mobtyper_results.txt
 ```
 
+# Revisions 23 July 2025
+
+## licD homology
+
+* This was included in the original biorxiv submission but omitted here (not by choice, just absent mindedness)
+* First, to find licD homologs, search all proteins in the 13 isolates (`all_prots.faa`) against the ATCC 700802 licD protein with MMSeqs2 v13.45111
+
+```bash
+mmseqs easy-search all_prots.faa ATCC700802_licd.faa all_prots.m8 tmp 
+```
+
+```bash
+JBIPMC_09975    ATCC700802      1.000   282     0       0       1       282     1       282     1.567E-224      607
+FHNNJA_05505    ATCC700802      0.846   280     43      0       1       280     1       280     4.263E-190      519
+FNCLAJ_09350    ATCC700802      0.921   64      5       0       4       67      219     282     2.241E-42       128
+PMCJLP_09085    ATCC700802      0.921   64      5       0       4       67      219     282     2.241E-42       128
+HCJMML_09885    ATCC700802      1.000   282     0       0       1       282     1       282     1.567E-224      607
+HCJMML_09855    ATCC700802      0.309   262     177     0       6       267     9       265     6.493E-27       95
+FHNNJA_05535    ATCC700802      0.289   260     181     0       9       268     11      265     9.841E-26       92
+JEILEN_10175    ATCC700802      0.992   282     2       0       1       282     1       282     4.672E-222      601
+CJHMOJ_09230    ATCC700802      0.921   64      5       0       4       67      219     282     2.241E-42       128
+FNCLAJ_09350    ATCC700802      0.921   64      5       0       4       67      219     282     2.241E-42       128
+LIMHLO_08075    ATCC700802      0.839   280     45      0       1       280     1       280     4.263E-190      519
+CJHMOJ_09230    ATCC700802      0.921   64      5       0       4       67      219     282     2.241E-42       128
+PMCJLP_09085    ATCC700802      0.921   64      5       0       4       67      219     282     2.241E-42       128
+JBIPMC_09945    ATCC700802      0.309   262     177     0       6       267     9       265     6.493E-27       95
+```
+
+* Next we considered all alignments with over 40% sequence identity - all others (`HCJMML_09855` `FHNNJA_05535` `JBIPMC_09945`) were to more distant homologs into the Twilight zone of sequence alignment on strains that had full licD homologs anyway (i.e. `HCJMML_09885` `FHNNJA_05505` `JBIPMC_09975`). Removing duplicates from the MMSeqs2 output leaves 8 proteins with at least partial alignment to licD of more than 80% sequence identity
+* Three of these were denoted as truncated, being only 67 resiudes long (`FNCLAJ_09350` `CJHMOJ_09230` `PMCJLP_09085`)
+
+```bash
+JBIPMC_09975    ATCC700802      1.000   282     0       0       1       282     1       282     1.567E-224      607
+FHNNJA_05505    ATCC700802      0.846   280     43      0       1       280     1       280     4.263E-190      519
+FNCLAJ_09350    ATCC700802      0.921   64      5       0       4       67      219     282     2.241E-42       128
+HCJMML_09885    ATCC700802      1.000   282     0       0       1       282     1       282     1.567E-224      607
+JEILEN_10175    ATCC700802      0.992   282     2       0       1       282     1       282     4.672E-222      601
+CJHMOJ_09230    ATCC700802      0.921   64      5       0       4       67      219     282     2.241E-42       128
+LIMHLO_08075    ATCC700802      0.839   280     45      0       1       280     1       280     4.263E-190      519
+PMCJLP_09085    ATCC700802      0.921   64      5       0       4       67      219     282     2.241E-42       128
+```
+
+* `all_licd.faa` combines the 8 identified homologs with the ATCC700802 protein, and add the names of the isolates for clarity.
+
+
+## PIP EF
+
+### Our Isolates
+
+* PIP EF was identified as a phage infection related protein from Duerkop et al 2016 mbio https://journals.asm.org/doi/10.1128/mbio.01304-16
+* They note that there is a variable region of 160AA in PIPEF between approximately residues 340-500AA
+* Ours were annotated by Bakta as yhgE (phage infection protein) 
+* `yhge.aln.ffn` contains the nucleotide sequences for ours, `yhge.aln.faa` the amino acid residues and `yhge.aln.faa.msa` the MSA (made with `mafft --auto` v7.526)
+* Note that the cluster and `pip_ef_rep_seq.fasta` show the results of MMSeqs2 clustering with `mmseqs easy-cluster yhge.aln.faa pip_ef tmp --min-seq-id 1  ` to get all unique sequences - only 3 different ones in the end
+* MMSeqs2 v 13.45111 was used
+* We visualised the MSA with Jalview (to create the .svg file) for the supplementary figure
+
+### Duerkop et al 2016 clade assignment
+
+* Duerkop et al type the diversity of the PIPEF variable regions into 5 clades, but frustratingly do not provide the sequences
+* So taking 1 strain per clade (strains taken from ST3 from their manuscript):
+
+```bash
+Clade 1 ARO1/DG (nucleotide accession NZ_CP022488.1)
+Clade 2 Merz96 (Refseq assembly GCF_000157315.1)
+Clade 3 OG1RF (GenBank accession NC_017316.1)
+Clade 4 V583 (GenBank accession NC_004668.1)
+Clade 5 E1Sol (Protein accession GG692679.1)
+```
+
+* To get the similarity between our strains and the clades: `mmseqs easy-search yhge.aln.faa duerkop_pipef.faa us_vs_duerkop.m8 tmp`
+* It becomes clear all isolates PIPEF should be Clade 1 other than CI-8050 (Clade 4)
+
+
+## DefenseFinder
+
+* With v2.0.1
+
+```bash
+
+for faa_file in ../batka_output/*/*.faa; do
+    base=$(basename "$faa_file" .faa)
+
+    outdir="defensefinder/$base"
+    defense-finder run -o "$base" "$faa_file"
+done
+
+* We didnt include padloc as was very similar to defense-finder, but just out of interest we ran padloc v2.0.0
+
+for fna_file in ../batka_output/*/*.fna; do
+    # Extract the base name (e.g., CI-1049 from the path)
+    base=$(basename "$fna_file" .fna)
+    
+    # Define the output directory
+    outdir="padloc/$base"
+    mkdir -p $outdir
+    
+    # Run padloc
+    padloc --fna "$fna_file" --cpu 8 --outdir "$outdir"
+done
+
+```
+
 # Phage Isolates
 
 ## Sphae 
@@ -211,7 +314,7 @@ python make_alignment_plots.py
 ```bash
 cd Phages/lovis4u
 # get the initial
-lovis4u --gb gbks  -hl -fv-off -o lovis4u_output --set-category-colour 
+lovis4u --gb gbks  -hl -fv-off -o lovis4u_output --set-category-colour --locus-annotation-file locus_annotation_table_structural.tsv
 # change the coordinates manually then
 lovis4u --gb gbks  -hl -fv-off -o lovis4u_output_structural_module --set-category-colour --locus-annotation-file locus_annotation_table_structural.tsv
 ```

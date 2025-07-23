@@ -1,0 +1,5 @@
+sys_id	type	subtype	activity	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+CI-8050_CAS_Class2-Subtype-II-A_4	Cas	CAS_Class2-Subtype-II-A	Defense	LIMHLO_07030	LIMHLO_07045	LIMHLO_07030,LIMHLO_07035,LIMHLO_07040,LIMHLO_07045	4	cas1_I_II_III_IV_V_VI_5,cas2_I_II_III_IV_V_VI_6,cas9_II-A_II-B_II-C_1,csn2_II-A_5
+CI-8050_SpbK_2	SpbK	SpbK	Defense	LIMHLO_07635	LIMHLO_07635	LIMHLO_07635	1	SpbK__SpbK
+CI-8050_Dodola_1	Dodola	Dodola	Defense	LIMHLO_12460	LIMHLO_12465	LIMHLO_12460,LIMHLO_12465	2	Dodola__DolA,Dodola__DolB
+CI-8050_SpbK_3	SpbK	SpbK	Defense	LIMHLO_12470	LIMHLO_12470	LIMHLO_12470	1	SpbK__SpbK

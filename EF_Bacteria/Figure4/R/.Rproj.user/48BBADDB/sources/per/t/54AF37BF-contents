@@ -1,0 +1,523 @@
+library(ape)
+library(phangorn)
+library(ggtree)
+library(tidyverse)
+
+# load tree data and midpoint root 
+
+tree <- read.tree("../Muhammed_mashtree/mashtree.dnd")            # load in the tree
+tree$edge.length <- pmax(tree$edge.length, 0.0)  # set any negative branch lengths to zero
+tree <- midpoint(tree)                           # midpoint-root the tree
+
+tree$tip.label
+
+
+
+# load meta data and remove references 
+meta <- read.csv(file = "metadata.csv" )
+
+ref_ids <- meta  %>% pull(id)
+
+
+# change tree tipname 
+
+
+# make tree 
+
+p <- ggtree(tree) %<+% meta + 
+  #geom_tippoint(aes(color=Source), size =8) +
+  geom_tiplab(align=TRUE, linetype='dashed', linesize=.05, offset=.001, colour= "black",size = 12) +
+  scale_color_manual(values = c("gold","green", "pink"), name="Source") + 
+  geom_treescale(x=0, y=15)+
+  xlim(NA,0.043)+
+  ylim(NA,16)
+
+p
+
+### vre
+
+heatmapData=meta%>% 
+  dplyr::select(Source)
+rownames(heatmapData) <- meta$id
+
+heatmapData$Source <- gsub("Wastewater", "WW", heatmapData$Source)
+
+heatmapData$label <- rownames(heatmapData)
+
+tips <- p$data[p$data$isTip, c("label", "y")]
+
+
+heatmapData$label <- rownames(heatmapData)  # if rownames are tip labels
+text_df <- merge(tips, heatmapData[, c("label", "Source")], by = "label")
+
+text_df$x <- max(p$data$x) + 0.03  # Adjust spacing as needed
+
+
+
+# Add width/height for each tile (fixed)
+tile_width <- 0.01
+tile_height <- 0.9  # vertical spacing (adjust if your tree has different y scaling)
+
+# Plot with tile + text
+p2 <- p +
+  geom_tile(data = text_df, aes(x = x, y = y, width = tile_width, height = tile_height), 
+            fill = NA, color = "black", linewidth = 0.3) +
+  geom_text(data = text_df, aes(x = x, y = y, label = Source), size = 10) +
+  annotate("text", x = max(text_df$x), y = max(text_df$y) + 1, 
+           label = "Source", angle = 90, size = 8, hjust = 0) +
+  xlim(0, max(text_df$x) + 0.1)
+
+p2
+
+
+
+
+
+
+########
+##make colour pallete 
+########
+
+
+library(paletteer)
+
+
+library(RColorBrewer)
+
+
+
+
+########################
+### POPUNK
+########################
+
+heatmapData=meta%>% 
+  dplyr::select(Vancomycin)
+rownames(heatmapData) <- meta$id
+
+#col1 <- brewer.pal(n = 2, name = "Greys")[1,6]  # Dark to light greyscale
+col1 <- c( "lightgrey","black")
+heatmapData$`Vancomycin` <- factor(heatmapData$`Vancomycin`,
+                                       levels = c("Sensitive","Resistant" ))
+colnames(heatmapData)[1] <- "Vancomycin" 
+names(col1) <- levels(heatmapData$`Vancomycin`)
+
+
+# Define a green-to-red color palette
+#col1 <- brewer.pal(n = 6, name = "RdYlGn")[1:6] # Reversed to go from green to red
+
+p3 <- gheatmap(p2,
+               heatmapData, 
+               offset = .034, 
+               width = 0.4,
+               colnames_position='top', 
+               colnames_angle=45,
+               colnames_offset_y = 0, 
+               hjust=0, 
+               font.size = 6,
+               legend_title = NULL, )+
+  scale_fill_manual(values=col1, name= "Vancomycin",
+                    breaks = levels(heatmapData$`Vancomycin`),
+                    guide = "none") 
+
+
+
+
+heatmapData=meta%>% 
+  dplyr::select(Ampicillin)
+rownames(heatmapData) <- meta$id
+
+#col1 <- brewer.pal(n = 2, name = "Greys")[1,6]  # Dark to light greyscale
+col1 <- c( "lightgrey","black")
+heatmapData$`Ampicillin` <- factor(heatmapData$`Ampicillin`,
+                                   levels = c("Sensitive","Resistant" ))
+colnames(heatmapData)[1] <- "Ampicillin" 
+names(col1) <- levels(heatmapData$`Ampicillin`)
+
+# theme_classic(base_size = 18)
+
+p3
+p4 <- p3 + new_scale_fill()
+
+p4 <- gheatmap(p3,
+               heatmapData, 
+               offset = .041, 
+               width = 0.4,
+               colnames_position='top', 
+               colnames_angle=45,
+               colnames_offset_y = 0, 
+               hjust=0, 
+               font.size = 6,
+               )+
+  scale_fill_manual(values=col1, 
+                    name= "Antibiotic Sensitivity",
+                    breaks = levels(heatmapData$Ampicillin)) 
+
+
+p4
+
+
+# save 4A
+
+grDevices::dev.size("in")  
+
+png(filename = paste0("ggtree_4A.png"), units = "in", width = 20, height = 12, res = 600,  type='cairo') 
+p4
+dev.off()
+
+
+svglite:: svglite(filename =paste0("ggtree_4A.svg"), width = 20, height = 12)
+p4
+dev.off()
+
+
+# 4B
+
+
+
+
+
+
+
+########################
+# add plasmids
+########################
+
+plasmids=meta%>% 
+  dplyr::select(Plasmids)
+rownames(plasmids) <- meta$id
+plasmids$label <- meta$id
+colnames(plasmids)[1] <- "PlasmidCount"
+meta
+
+# need to do this for some reason
+library(ggnewscale)
+library(ggtree)
+library(ggtreeExtra)
+library(ggplot2)
+
+p5 <- p2 +
+  geom_fruit(
+    data = plasmids,
+    geom = geom_bar,
+   # mapping = aes(y = rownames(plasmids), x = Plasmids),
+    mapping = aes(y = label, x = PlasmidCount),
+    stat = "identity",
+    orientation = "y",
+    offset = 2.5,
+    width = 0.4,
+   pwidth = 0.3,
+    fill = "steelblue",
+   axis.params = list(
+     axis = "y",
+     text.angle = 0,
+     text.size = 3,
+     hjust = 1
+   )
+  )+
+  geom_fruit(
+    data = plasmids,
+    geom = geom_text,
+    mapping = aes(y = label, x = PlasmidCount, label = PlasmidCount),
+    hjust = 1.2,   # adjust distance from bar
+    size = 8,
+    offset = 0,
+    orientation = "y"
+  )
+
+
+p5
+
+
+# temperate
+
+heatmapData=meta%>% 
+  dplyr::select(Pseudo.temperate.Prophage)
+rownames(heatmapData) <- meta$id
+
+#col1 <- brewer.pal(n = 2, name = "Greys")[1,6]  # Dark to light greyscale
+col1 <- c( "lightgrey","black")
+heatmapData$`Pseudo.temperate.Prophage` <- factor(heatmapData$`Pseudo.temperate.Prophage`,
+                                   levels = c("Absent","Present" ))
+
+
+colnames(heatmapData)[1] <- "Prophage" 
+
+names(col1) <- levels(heatmapData$`Prophage`)
+
+# theme_classic(base_size = 18)
+
+p5
+p6 <- p5 + new_scale_fill()
+
+p6 <- gheatmap(p5,
+               heatmapData, 
+               offset = .046, 
+               width = 0.4,
+               colnames_position='top', 
+               colnames_angle=45,
+               colnames_offset_y = 0, 
+               hjust=0, 
+               font.size = 6,
+)+
+  scale_fill_manual(values=col1, 
+                    name= "Pseudo Temperate Prophage",
+                    breaks = levels(heatmapData$`Prophage`)) 
+
+
+p6
+
+
+
+
+
+args=meta%>% 
+  dplyr::select(ARGs)
+rownames(args) <- meta$id
+args$label <- meta$id
+colnames(args)[1] <- "ARGCount"
+meta
+
+
+p7 <- p6 +
+  geom_fruit(
+    data = args,
+    geom = geom_bar,
+    # mapping = aes(y = rownames(plasmids), x = Plasmids),
+    mapping = aes(y = label, x = ARGCount),
+    stat = "identity",
+    orientation = "y",
+    offset = 0.8,
+    width = 0.4,
+    pwidth = 0.6,
+    fill = "steelblue",
+    axis.params = list(
+      axis = "y",
+      text.angle = 0,
+      text.size = 3,
+      hjust = 1
+    )
+  )+
+  geom_fruit(
+    data = args,
+    geom = geom_text,
+    mapping = aes(y = label, x = ARGCount, label = ARGCount),
+    hjust = 1,   # adjust distance from bar
+    size = 8,
+    offset = 0,
+    orientation = "y"
+  )
+
+
+p7
+
+
+grDevices::dev.size("in")  
+
+png(filename = paste0("ggtree_4B.png"), units = "in", width = 20, height = 12, res = 600,  type='cairo') 
+p7
+dev.off()
+
+
+svglite:: svglite(filename =paste0("ggtree_4B.svg"), width = 20, height = 12)
+p7
+dev.off()
+
+
+
+
+
+
+
+
+
+
+
+########################
+# add EOP
+########################
+col1 <- brewer.pal(n = 4, name = "Greys")[1:4]
+col1[1] <- "#CCCCCC"
+col1[2] <- "#969696"
+col1[3] <- "#525252"
+col1[4] <- "#000000"
+
+heatmapData=meta%>% 
+  dplyr::select(APTC.Efa10, APTC.Efa16, APTC.Efa20) 
+
+rownames(heatmapData) <- meta$id
+
+# Categorize the EOP values
+eop_cat <- heatmapData %>%
+  mutate(across(everything(), ~ case_when(
+    . <= 0.001             ~ "<=0.001 (-)",
+    . > 0.001 & . <= 0.1   ~ ">0.001,<=0.1 (+)",
+    . > 0.1  & . <= 0.5    ~ ">0.01,<=0.5 (++)",
+    . > 0.5                ~ ">0.5 (+++)"
+  )))
+
+
+# View result
+print(eop_cat)
+
+
+eop_cat$`APTC.Efa10` <- factor(eop_cat$`APTC.Efa10`,
+                               levels = c("<=0.001 (-)", 
+                                          ">0.001,<=0.1 (+)", 
+                                          ">0.01,<=0.5 (++)",
+                                          ">0.5 (+++)" ))
+
+eop_cat$`APTC.Efa16` <- factor(eop_cat$`APTC.Efa16`,
+                               levels = c("<=0.001 (-)", 
+                                          ">0.001,<=0.1 (+)", 
+                                          ">0.01,<=0.5 (++)",
+                                          ">0.5 (+++)" ))
+
+eop_cat$`APTC.Efa20` <- factor(eop_cat$`APTC.Efa20`,
+                                   levels = c("<=0.001 (-)", 
+                                              ">0.001,<=0.1 (+)", 
+                                              ">0.01,<=0.5 (++)",
+                                              ">0.5 (+++)" ))
+
+colnames(eop_cat)[1] <- "APTC-Efa.10"
+colnames(eop_cat)[2] <- "APTC-Efa.16"
+colnames(eop_cat)[3] <- "APTC-Efa.20"
+
+names(col1) <- levels(heatmapData$APTC.Efa10)
+
+p8 <- gheatmap(p2,
+               eop_cat, 
+               offset = 0.036, 
+               width = 1.2,
+               colnames_position='top', 
+               colnames_angle=45,
+               colnames_offset_y = 0, 
+               hjust=0, 
+               font.size = 5,
+               legend_title = "EOP")+
+  scale_fill_manual(values=col1, 
+                    name= "Phage Sensitivity (EOP)",
+                    breaks = levels(eop_cat$`APTC-Efa.10`)) 
+
+# theme_classic(base_size = 18)
+
+p8
+
+
+defenses=meta%>% 
+  dplyr::select(DefenseFinder.Systems)
+rownames(defenses) <- meta$id
+defenses$label <- meta$id
+colnames(defenses)[1] <- "DefenseCount"
+meta
+
+
+p9 <- p8 +
+  geom_fruit(
+    data = defenses,
+    geom = geom_bar,
+    # mapping = aes(y = rownames(plasmids), x = Plasmids),
+    mapping = aes(y = label, x = DefenseCount),
+    stat = "identity",
+    orientation = "y",
+    offset = 3.75,
+    width = 0.4,
+    pwidth = 0.6,
+    fill = "steelblue",
+    axis.params = list(
+      axis = "y",
+      text.angle = 0,
+      text.size = 3,
+      hjust = 1
+    )
+  )+
+  geom_fruit(
+    data = defenses,
+    geom = geom_text,
+    mapping = aes(y = label, x = DefenseCount, label = DefenseCount),
+    hjust = 0.5,   # adjust distance from bar
+    size = 8,
+    offset = 0,
+    orientation = "y"
+  )
+
+
+p9
+
+
+
+
+
+grDevices::dev.size("in")  
+
+
+
+svglite:: svglite(filename =paste0("ggtree_4C.svg"), width = 20, height = 12)
+p9
+dev.off()
+
+
+
+
+
+
+########################
+# licd
+########################
+
+heatmapData=meta%>% 
+  dplyr::select(licD.homolog) 
+
+rownames(heatmapData) <- meta$id
+colnames(heatmapData)[1] <- "licD homolog" 
+
+col1 <- brewer.pal(n = 3, name = "Greys")[1:3]
+
+col1[1] <- "#CCCCCC"
+col1[2] <- "#525252"
+col1[3] <- "#000000"
+
+
+heatmapData$`licD homolog`<- factor(heatmapData$licD,
+                                    levels = c("No", "Truncated", "Full"))
+
+colnames(heatmapData)[1] <- "licD homolog" 
+names(col1) <- levels(heatmapData$`licD homolog`)
+heatmapData
+
+# need to do this for some reason
+library(ggnewscale)
+
+
+
+
+p10 <- gheatmap(p2,
+               heatmapData, 
+               offset = 0.05, 
+               width = 0.4,
+               colnames_position='top', 
+               colnames_angle=45,
+               colnames_offset_y = 0, 
+               hjust=0, 
+               font.size = 5,
+               legend_title = "licD homolog")+
+  scale_fill_manual(values=col1, name= "licD homolog",
+                    breaks = levels(heatmapData$`licD homolog`))+
+  theme_classic(base_size = 18) +
+  theme(axis.line=element_blank(),
+        axis.text.x=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks=element_blank(),
+        axis.title.x=element_blank(),
+        axis.title.y=element_blank())
+
+
+
+
+p10
+
+svglite:: svglite(filename =paste0("ggtree_4D.svg"), width = 20, height = 12)
+p10
+dev.off()
+
+

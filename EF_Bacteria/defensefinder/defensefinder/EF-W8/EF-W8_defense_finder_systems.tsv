@@ -1,0 +1,7 @@
+sys_id	type	subtype	activity	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+EF-W8_CAS_Class2-Subtype-II-A_8	Cas	CAS_Class2-Subtype-II-A	Defense	FNCLAJ_02850	FNCLAJ_02865	FNCLAJ_02850,FNCLAJ_02855,FNCLAJ_02860,FNCLAJ_02865	4	cas1_I_II_III_IV_V_VI_5,cas2_I_II_III_IV_V_VI_6,cas9_II-A_II-B_II-C_3,csn2_II-A_4
+EF-W8_SpbK_5	SpbK	SpbK	Defense	FNCLAJ_08625	FNCLAJ_08625	FNCLAJ_08625	1	SpbK__SpbK
+EF-W8_AbiU_1	AbiU	AbiU	Defense	FNCLAJ_09855	FNCLAJ_09855	FNCLAJ_09855	1	AbiU__AbiU
+EF-W8_Mokosh_Type_I_B_3	Mokosh	Mokosh_Type_I_B	Defense	FNCLAJ_09860	FNCLAJ_09870	FNCLAJ_09860,FNCLAJ_09870	2	Mokosh_type_I__MkoA_B,Mokosh_type_I__MkoB_B
+EF-W8_RM_Type_I_7	RM	RM_Type_I	Defense	FNCLAJ_12510	FNCLAJ_12530	FNCLAJ_12510,FNCLAJ_12515,FNCLAJ_12525,FNCLAJ_12530	4	RM__Type_I_MTases_FAM_0,RM__Type_I_REases_FAM_0.einsi_trimmed,RM__Type_I_S_51,RM__Type_I_S_51
+EF-W8_RosmerTA_4	RosmerTA	RosmerTA	Defense	FNCLAJ_14020	FNCLAJ_14025	FNCLAJ_14020,FNCLAJ_14025	2	RosmerTA__RmrA_2623274509,RosmerTA__RmrT_2677172838

@@ -1,0 +1,23 @@
+library(tidyverse)
+
+defense_df <- read_tsv("../../Awad_et_al_LicD/EF_Bacteria/defensefinder/defensefinder/all_defensefinder_systems.tsv")
+
+
+defense_df <- defense_df %>% dplyr::select(ID, subtype)
+# Remove missing types (optional, but likely wanted)
+df_clean <- defense_df %>% filter(!is.na(subtype))
+
+# Create binary wide table
+# Add binary flag and pivot to wide format
+df_binary <- df_clean %>%
+  mutate(value = 1L) %>%  # Use integer 1 explicitly
+  distinct() %>%          # In case of duplicates
+  pivot_wider(
+    names_from = subtype,
+    values_from = value,
+    values_fill = list(value = 0)
+  )
+
+print(df_binary)
+
+write_tsv(df_binary, "../../Awad_et_al_LicD/EF_Bacteria/defensefinder/all_defense_systems_per_isolate.tsv")

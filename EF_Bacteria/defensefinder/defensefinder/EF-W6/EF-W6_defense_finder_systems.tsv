@@ -1,0 +1,7 @@
+sys_id	type	subtype	activity	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+EF-W6_AbiD_1	AbiD	AbiD	Defense	LOEDCI_00605	LOEDCI_00605	LOEDCI_00605	1	AbiD__AbiD
+EF-W6_AbiJ_3	AbiJ	AbiJ	Defense	LOEDCI_08645	LOEDCI_08645	LOEDCI_08645	1	AbiJ__AbiJ
+EF-W6_SpbK_4	SpbK	SpbK	Defense	LOEDCI_08995	LOEDCI_08995	LOEDCI_08995	1	SpbK__SpbK
+EF-W6_AbiD_2	AbiD	AbiD	Defense	LOEDCI_09600	LOEDCI_09600	LOEDCI_09600	1	AbiD__AbiD
+EF-W6_RM_Type_I_7	RM	RM_Type_I	Defense	LOEDCI_10775	LOEDCI_10780	LOEDCI_10775,LOEDCI_10780	2	RM__Type_I_REases_FAM_0.einsi_trimmed,RM__Type_I_S_51
+EF-W6_RM_Type_I_8	RM	RM_Type_I	Defense	LOEDCI_13290	LOEDCI_13310	LOEDCI_13290,LOEDCI_13300,LOEDCI_13305,LOEDCI_13310	4	RM__Type_I_MTases_FAM_0,RM__Type_I_REases_FAM_0.einsi_trimmed,RM__Type_I_S_51,RM__Type_I_S_51

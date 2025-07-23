@@ -1,0 +1,11 @@
+replicon	hit_id	gene_name	hit_pos	model_fqn	sys_id	sys_loci	locus_num	sys_wholeness	sys_score	sys_occ	hit_gene_ref	hit_status	hit_seq_len	hit_i_eval	hit_score	hit_profile_cov	hit_seq_cov	hit_begin_match	hit_end_match	counterpart	used_in	type	subtype	activity
+CI-8010	HCJMML_05325	HEC-05__HEC-05	1004	defense-finder-models/DefenseFinder/HEC-05/HEC-05	CI-8010_HEC-05_2	1	1	1.0	1.0	1	HEC-05__HEC-05	mandatory	583	1.8e-252	838.8	0.533	0.99	5	581			HEC-05	HEC-05	Defense
+CI-8010	HCJMML_08780	AbiJ__AbiJ	1688	defense-finder-models/DefenseFinder/AbiJ/AbiJ	CI-8010_AbiJ_1	1	1	1.0	1.0	1	AbiJ__AbiJ	mandatory	276	3.5e-27	93.0	0.47	0.525	124	268			AbiJ	AbiJ	Defense
+CI-8010	HCJMML_09140	SpbK__SpbK	1759	defense-finder-models/DefenseFinder/SpbK/SpbK	CI-8010_SpbK_4	1	1	1.0	1.0	1	SpbK__SpbK	mandatory	274	4.7000000000000004e-48	161.9	0.45	0.617	3	171			SpbK	SpbK	Defense
+CI-8010	HCJMML_11730	Tha__Tha	2269	defense-finder-models/DefenseFinder/Tha/Tha	CI-8010_Tha_5	1	1	1.0	1.0	1	Tha__Tha	mandatory	322	4.8e-06	23.7	0.405	0.376	169	289			Tha	Tha	Defense
+CI-8010	HCJMML_13370	RM__Type_I_REases_FAM_0.einsi_trimmed	2588	defense-finder-models/RM/RM/RM_Type_I	CI-8010_RM_Type_I_7	1	1	1.0	3.0	1	RM__Type_I_REases_FAM_0.einsi_trimmed	mandatory	1047	2.6e-182	606.1	0.839	0.91	5	957		CI-8010_PrrC_6	RM	RM_Type_I	Defense
+CI-8010	HCJMML_13375	RM__Type_I_S_51	2589	defense-finder-models/RM/RM/RM_Type_I	CI-8010_RM_Type_I_7	1	1	1.0	3.0	1	RM__Type_I_S_01	mandatory	359	3.3000000000000002e-37	125.4	0.69	0.969	11	358		CI-8010_PrrC_6	RM	RM_Type_I	Defense
+CI-8010	HCJMML_13390	RM__Type_I_S_51	2592	defense-finder-models/RM/RM/RM_Type_I	CI-8010_RM_Type_I_7	1	1	1.0	3.0	1	RM__Type_I_S_01	mandatory	378	2.9e-47	158.6	0.804	0.963	14	377		CI-8010_PrrC_6	RM	RM_Type_I	Defense
+CI-8010	HCJMML_13395	RM__Type_I_MTases_FAM_0	2593	defense-finder-models/RM/RM/RM_Type_I	CI-8010_RM_Type_I_7	1	1	1.0	3.0	1	RM__Type_I_MTases_FAM_0	mandatory	529	4.1e-169	561.2	0.982	0.964	3	512		CI-8010_PrrC_6	RM	RM_Type_I	Defense
+CI-8010	HCJMML_14990	MazEF__MazE	2893	defense-finder-models/DefenseFinder/MazEF/MazEF	CI-8010_MazEF_3	1	1	1.0	2.0	1	MazEF__MazE	mandatory	87	3.5e-19	66.1	0.963	0.954	5	87			MazEF	MazEF	Defense
+CI-8010	HCJMML_14995	MazEF__MazF	2894	defense-finder-models/DefenseFinder/MazEF/MazEF	CI-8010_MazEF_3	1	1	1.0	2.0	1	MazEF__MazF	mandatory	120	3.5e-17	59.8	0.928	0.892	4	110			MazEF	MazEF	Defense
