@@ -539,3 +539,13 @@ defense-finder run -o "EF_Bacteria/defensefinder/defensefinder/ATCC_700802" "BIM
 
 amrfinder -p "BIMS/ATCC_700802_bakta/ATCC_700802.faa"   -O Enterococcus_faecalis    --plus -o EF_Bacteria/amrfinderplus/ATCC_700802.txt
 ```
+
+* To remake the mashtree for Figure 4
+
+```bash
+* Mashtree v1.4.6 was used
+
+```bash
+cd EF_Bacteria
+mashtree ef_isolate_genomes/combined/*fasta ../BIMS/ATCC_700802_trycycler.fasta > mashtree/mashtree_w_atcc.dnd
+```
