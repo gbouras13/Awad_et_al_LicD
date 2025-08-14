@@ -1,4 +1,5 @@
 id,Source,Plasmids,Pseudo-temperate Prophage,licD homolog,Vancomycin,Ampicillin,APTC-Efa10,APTC-Efa16,APTC-Efa20,ARGs,DefenseFinder Systems
+ATCC-700802,Host,3,Absent,Full,Resistant,Sensitive,1,1,1,11,7
 CI-1049,CRS,5,Absent,Full,Resistant,Resistant,0.5,0.5,0.5,7,8
 CI-1104,CRS,2,Present,Truncated,Resistant,Resistant,0.3,0.1,0.1,4,7
 CI-8010,CRS,2,Present,Full,Resistant,Resistant,1,0.9,1,8,6

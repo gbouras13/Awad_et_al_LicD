@@ -526,3 +526,16 @@ done
 * The final variant calls with manually curated notes can be found in `variant_table_summary.xlsx`
 * You can also find all the BAM pileups as supplementary figures in this manuscript to verify the existence of the variants
 * Code to reproduce these figures can be found in `BIMS/gviz`
+
+## Revision 14 August 2025
+
+* Need to add ATCC 700802 to Figure 4
+* Namely this involves calculating defensefinder systems and ARGs via AMRfinderplus. There were no pseudotemperate prophages and we know it has 3 plasmids already
+* Taking the genome and bakta annotations in `BIMS` 
+
+```bash
+
+defense-finder run -o "EF_Bacteria/defensefinder/defensefinder/ATCC_700802" "BIMS/ATCC_700802_trycycler.fasta"
+
+amrfinder -p "BIMS/ATCC_700802_bakta/ATCC_700802.faa"   -O Enterococcus_faecalis    --plus -o EF_Bacteria/amrfinderplus/ATCC_700802.txt
+```

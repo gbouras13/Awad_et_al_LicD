@@ -5,9 +5,12 @@ library(tidyverse)
 
 # load tree data and midpoint root 
 
-tree <- read.tree("mashtree.dnd")            # load in the tree
+tree <- read.tree("mashtree_w_atcc.dnd")            # load in the tree
 tree$edge.length <- pmax(tree$edge.length, 0.0)  # set any negative branch lengths to zero
 tree <- midpoint(tree)                           # midpoint-root the tree
+
+tree$tip.label <- gsub("ATCC_700802_trycycler", "ATCC-700802", tree$tip.label)
+
 
 tree$tip.label
 
@@ -50,7 +53,7 @@ tips <- p$data[p$data$isTip, c("label", "y")]
 heatmapData$label <- rownames(heatmapData)  # if rownames are tip labels
 text_df <- merge(tips, heatmapData[, c("label", "Source")], by = "label")
 
-text_df$x <- max(p$data$x) + 0.03  # Adjust spacing as needed
+text_df$x <- max(p$data$x) + 0.037  # Adjust spacing as needed
 
 
 
@@ -108,7 +111,7 @@ names(col1) <- levels(heatmapData$`Vancomycin`)
 
 p3 <- gheatmap(p2,
                heatmapData, 
-               offset = .034, 
+               offset = .040, 
                width = 0.4,
                colnames_position='top', 
                colnames_angle=45,
@@ -141,7 +144,7 @@ p4 <- p3 + new_scale_fill()
 
 p4 <- gheatmap(p3,
                heatmapData, 
-               offset = .041, 
+               offset = .047, 
                width = 0.4,
                colnames_position='top', 
                colnames_angle=45,
@@ -204,7 +207,7 @@ p5 <- p2 +
     mapping = aes(y = label, x = PlasmidCount),
     stat = "identity",
     orientation = "y",
-    offset = 2.5,
+    offset = 2.9,
     width = 0.4,
    pwidth = 0.3,
     fill = "steelblue",
@@ -252,7 +255,7 @@ p6 <- p5 + new_scale_fill()
 
 p6 <- gheatmap(p5,
                heatmapData, 
-               offset = .046, 
+               offset = .052, 
                width = 0.4,
                colnames_position='top', 
                colnames_angle=45,
@@ -287,7 +290,7 @@ p7 <- p6 +
     mapping = aes(y = label, x = ARGCount),
     stat = "identity",
     orientation = "y",
-    offset = 0.8,
+    offset = 0.85,
     width = 0.4,
     pwidth = 0.6,
     fill = "steelblue",
@@ -337,10 +340,12 @@ dev.off()
 # add EOP
 ########################
 col1 <- brewer.pal(n = 4, name = "Greys")[1:4]
-col1[1] <- "#CCCCCC"
-col1[2] <- "#969696"
-col1[3] <- "#525252"
-col1[4] <- "#000000"
+
+col1[1] <- "#F3F6EE"
+col1[2] <- "#CCCCCC"
+#col1[3] <- "#969696"
+col1[4] <- "#525252"
+col1[5] <- "#000000"
 
 heatmapData=meta%>% 
   dplyr::select(APTC.Efa10, APTC.Efa16, APTC.Efa20) 
@@ -350,8 +355,8 @@ rownames(heatmapData) <- meta$id
 # Categorize the EOP values
 eop_cat <- heatmapData %>%
   mutate(across(everything(), ~ case_when(
-    . <= 0.001             ~ "<=0.001 (-)",
-    . > 0.001 & . <= 0.1   ~ ">0.001,<=0.1 (+)",
+    . == 0             ~ "0 (-)",
+    . > 0 & . <= 0.1   ~ ">0,<=0.1 (+)",
     . > 0.1  & . <= 0.5    ~ ">0.01,<=0.5 (++)",
     . > 0.5                ~ ">0.5 (+++)"
   )))
@@ -362,20 +367,22 @@ print(eop_cat)
 
 
 eop_cat$`APTC.Efa10` <- factor(eop_cat$`APTC.Efa10`,
-                               levels = c("<=0.001 (-)", 
-                                          ">0.001,<=0.1 (+)", 
+                               levels = c("0 (-)",
+                                          ">0,<=0.1 (+)", 
                                           ">0.01,<=0.5 (++)",
                                           ">0.5 (+++)" ))
 
 eop_cat$`APTC.Efa16` <- factor(eop_cat$`APTC.Efa16`,
-                               levels = c("<=0.001 (-)", 
-                                          ">0.001,<=0.1 (+)", 
+                               levels = c("0 (-)",
+                                          #"<=0.001 (-)", 
+                                          ">0,<=0.1 (+)", 
                                           ">0.01,<=0.5 (++)",
                                           ">0.5 (+++)" ))
 
 eop_cat$`APTC.Efa20` <- factor(eop_cat$`APTC.Efa20`,
-                                   levels = c("<=0.001 (-)", 
-                                              ">0.001,<=0.1 (+)", 
+                                   levels = c("0 (-)",
+                                              #"<=0.001 (-)", 
+                                              ">0,<=0.1 (+)", 
                                               ">0.01,<=0.5 (++)",
                                               ">0.5 (+++)" ))
 
@@ -387,7 +394,7 @@ names(col1) <- levels(heatmapData$APTC.Efa10)
 
 p8 <- gheatmap(p2,
                eop_cat, 
-               offset = 0.036, 
+               offset = 0.041, 
                width = 1.2,
                colnames_position='top', 
                colnames_angle=45,
@@ -420,7 +427,7 @@ p9 <- p8 +
     mapping = aes(y = label, x = DefenseCount),
     stat = "identity",
     orientation = "y",
-    offset = 3.75,
+    offset = 4.25,
     width = 0.4,
     pwidth = 0.6,
     fill = "steelblue",
